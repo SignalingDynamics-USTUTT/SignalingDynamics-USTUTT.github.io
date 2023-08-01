@@ -140,10 +140,12 @@ chulapa-skin:
   skin          : twitter # Optional predefined skins
   autothemer    : true # Bool: Use autotheming
   vars          :    
+    # global
+    primary: black
     # navbar
     navbar-chulapa-bg-color: black
     navbar-chulapa-text-color: white
-    navbar-chulapa-hover-color: gray50
+    navbar-chulapa-hover-color: "#888888"
     navbar-chulapa-active-color: white
     navbar-chulapa-disabled-color: white
     navbar-chulapa-brand-color: black
@@ -151,7 +153,7 @@ chulapa-skin:
     # footer
     footer-chulapa-bg-color: black
     footer-chulapa-text-color: white
-    footer-chulapa-hover-color: gray50
+    footer-chulapa-hover-color: "#888888"
 
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
