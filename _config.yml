@@ -137,10 +137,10 @@ googlefonts:
 # Theme and colors
 chulapa-skin: 
   highlight     : github # default["default"]
-  skin          : graymor # Optional predefined skins
+  skin          : twitter # Optional predefined skins
   autothemer    : true # Bool: Use autotheming
   vars          :    
-    primary     : #default ["#007bff"] - Bootstrap blue
+    primary     : "#000000" #default ["#007bff"] - Bootstrap blue
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
