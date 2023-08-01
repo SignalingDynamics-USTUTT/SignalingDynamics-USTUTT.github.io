@@ -140,8 +140,9 @@ chulapa-skin:
   skin          : twitter # Optional predefined skins
   autothemer    : true # Bool: Use autotheming
   vars          :    
-    primary     : "#000000" #default ["#007bff"] - Bootstrap blue
-    
+    primary     : black #default ["#007bff"] - Bootstrap blue
+    navbar-chulapa-bg-color: black
+    navbar-chulapa-text-color: white
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
 # Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/
