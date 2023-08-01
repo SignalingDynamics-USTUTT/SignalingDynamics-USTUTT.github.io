@@ -141,7 +141,8 @@ chulapa-skin:
   autothemer    : true # Bool: Use autotheming
   vars          :    
     primary     : black #default ["#007bff"] - Bootstrap blue
-    navbar-chulapa-bg-color: "#000000";
+    thead-chulapa-bg-color: "#000000"
+    navbar-chulapa-bg-color: "#000000"
     navbar-chulapa-text-color: "#FFFFFF"
     navbar-chulapa-brand-color: "#FFFFFF"
     navbar-chulapa-hover-color: "#BBBBBB"
