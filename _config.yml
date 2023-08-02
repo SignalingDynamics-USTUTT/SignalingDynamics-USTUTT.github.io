@@ -143,14 +143,15 @@ chulapa-skin:
     # global
     primary: black
     thead-chulapa-bg-color: black
+    hero-chulapa-bg-color: black
     # navbar
     navbar-chulapa-bg-color: black
     navbar-chulapa-text-color: white
     navbar-chulapa-hover-color: "#888888"
     navbar-chulapa-active-color: white
     navbar-chulapa-disabled-color: white
-    navbar-chulapa-brand-color: black
-    navbar-chulapa-brand-hover-color: white
+    navbar-chulapa-brand-color: white
+    navbar-chulapa-brand-hover-color: "#888888"
     # footer
     footer-chulapa-bg-color: black
     footer-chulapa-text-color: white
