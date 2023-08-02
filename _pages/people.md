@@ -26,11 +26,6 @@ permalink: /people
   </tr>
 </tbody></table>
 
-#### Postdoctoral Researcher
-Unfortunately, there is no open position.
+#### You?
 
-#### Doctoral Student
-We are seeking one Doctoral Student with an experimental background.
-
-#### Bachelorarbeit, Projektstudie, and Masterarbeit
-We are seeking one M.Sc. student for computational research.
+Our lab is expanding! Please visit <a href="/join.md">Join Us</a> for more information.
