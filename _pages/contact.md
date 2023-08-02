@@ -7,9 +7,7 @@ permalink: /contact
 <style>
   td, th {
     border: none!important;
-  }
-  table {
-    border-spacing: 50px;
+    padding: 50px;
   }
 </style>
 
