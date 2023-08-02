@@ -142,6 +142,7 @@ chulapa-skin:
   vars          :    
     # global
     primary: black
+    thead-chulapa-bg-color: black
     # navbar
     navbar-chulapa-bg-color: black
     navbar-chulapa-text-color: white
