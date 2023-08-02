@@ -4,11 +4,6 @@ title: "Contact Us"
 include_collection: contact
 permalink: /contact
 ---
-<style>
-  td, th {
-    border: none!important;
-  }
-</style>
 
 <table><tbody>
   <tr>

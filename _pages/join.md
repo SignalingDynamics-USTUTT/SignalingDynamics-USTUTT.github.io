@@ -4,11 +4,6 @@ title: "Join Us"
 include_collection: join
 permalink: /join
 ---
-<style>
-  td, th {
-    border: none!important;
-  }
-</style>
 
 <table><tbody>
   <tr>
