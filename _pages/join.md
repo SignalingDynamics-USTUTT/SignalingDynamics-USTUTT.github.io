@@ -18,7 +18,7 @@ permalink: /join
     </p></td> 
     <td>
       Our lab is expanding! We need people from all backgrounds (mathematics, physics, chemistry, biology, computer science, etc). If you are interested in our work and believe that science is exciting, please consider joining us! <br><br>
-      The current open positions are listed below. If none of the positions fits you, do not be frustrated! Contact Jun-Prof. Chengzhe Tian to disucss further opportunities. 
+      The current open positions are listed below. If none of them fits you, do not be frustrated! Contact Jun-Prof. Chengzhe Tian to discuss further opportunities. 
     </td>
   </tr>
 </tbody></table>
