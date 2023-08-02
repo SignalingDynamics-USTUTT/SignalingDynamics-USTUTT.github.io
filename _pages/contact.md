@@ -20,7 +20,7 @@ permalink: /contact
       Institute of Cell Biology and Immunology (IZI) <br>
       University of Stuttgart <br>
       Allmandring 5B, Room XXX <br>
-      70569 Stuttgart, Germany <br>
+      70569 Stuttgart, Germany <br><br>
       E-Mail: chengzhe.tian AT izi.uni-stuttgart.de <br>
       Phone: +49 XXX XXX XXXXX <br>
       Lab: Room XXX
