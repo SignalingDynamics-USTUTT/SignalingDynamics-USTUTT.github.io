@@ -94,24 +94,18 @@ navbar:
     url     : # default["url/baseurl"]
     img     : # An small image, try 30x30px
   nav:
-  - title   : Blog # Label
-    url     : /blog/ # url	
-  - title   : Cheatsheets
-    url     : /cheatsheets
-  - title   : Extras
-    child   :
-      - title : Tags
-        url   : /tags
-      - title : Categories
-        url   : /categories
-      - title : Archive
-        url   : /archive
-      - title : Current skin
-        url   : /current-skin
-  - title   : Docs
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
+  - title   : News # Label
+    url     : /news/ # url	
+  - title   : Research
+    url     : /research
+  - title   : People
+    url     : /people
+  - title   : Publication
+    url     : /publication
+  - title   : Join Us
+    url     : /joinus
+  - title   : Contact
+    url     : /contact    
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
