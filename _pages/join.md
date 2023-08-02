@@ -12,8 +12,8 @@ permalink: /join
 
 <table><tbody>
   <tr>
-    <td><p>
-      <img src="../images/join/we_need_you.png" alt="We need you!" width=400 height=267>
+    <td style="width:300px;"><p>
+      <img src="../images/join/we_need_you.png" alt="We need you!" style="max-width:100%;">
       <em style="color: #888888">&copy; Adobe Stock. </em>
     </p></td> 
     <td>
