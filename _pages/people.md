@@ -6,9 +6,7 @@ permalink: /people
 ---
 
 <div id="main">
-
-#### Principal Investigator
-
+<h4>Principal Investigator</h4><br>
 <table><tbody>
   <tr>
     <td style="width:200px;"><p>
@@ -24,8 +22,7 @@ permalink: /people
   </tr>
 </tbody></table>
 
-#### You?
-
+<h4>You?</h4><br>
 Our lab is expanding! Please <a href="/join.md">click here</a> for more information.
 
 </div>
