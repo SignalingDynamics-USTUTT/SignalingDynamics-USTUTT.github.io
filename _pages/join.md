@@ -17,8 +17,7 @@ permalink: /join
       <em style="color: #888888">Copyright: Adobe Stock. </em>
     </p></td> 
     <td>
-      Our lab is expanding! We need people from all backgrounds (mathematics, physics, chemistry, biology, computer science, etc). If you are interested in our work and believe that science is exciting, please consider joining us! <br><br>
-      The current open positions are listed below. If none of them fits you, do not be frustrated! Contact Jun-Prof. Chengzhe Tian to discuss further opportunities. 
+      Our lab is expanding! We need people from all backgrounds (mathematics, physics, chemistry, biology, computer science, etc). If you are interested in our work and believe that science is exciting, please consider joining us! The current open positions are listed below. If none of them fits you, do not be frustrated! <a href="/contact">Contact us</a> to discuss further opportunities. 
     </td>
   </tr>
 </tbody></table>
