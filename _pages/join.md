@@ -14,7 +14,7 @@ permalink: /join
   <tr>
     <td><p>
       <img src="../images/join/we_need_you.png" alt="We need you!" width=400 height=267>
-      <em><font color="#888888">Copyright: Adobe Stock. </font></em>
+      <h4 style="color: #888888;"><em>Copyright: Adobe Stock. </em></h4>
     </p></td>
     <td>
       Our lab is expanding! If you think science is exciting, please join us!
