@@ -7,6 +7,7 @@ permalink: /contact
 <style>
 td, th {
    border: none!important;
+   border-spacing: 30px;
 }
 </style>
 
@@ -16,6 +17,7 @@ td, th {
     <td>
       <strong>Lab Address</strong><br>
       Institute of Cell Biology and Immunology <br>
+      University of Stuttgart <br>
       Allmandring 5B, Room XXX <br>
       70569 Stuttgart, Germany
     </td>
@@ -27,6 +29,7 @@ td, th {
     <td>
       <strong>Mailing Address</strong><br>
       Institute of Cell Biology and Immunology <br>
+      University of Stuttgart <br>
       Allmandring 31 <br>
       70569 Stuttgart, Germany
     </td>
