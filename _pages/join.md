@@ -5,6 +5,8 @@ include_collection: join
 permalink: /join
 ---
 
+<div id="main">
+
 <table><tbody>
   <tr>
     <td style="width:200px;"><p>
@@ -25,3 +27,5 @@ We are seeking one Doctoral Student with an experimental background.
 
 #### Bachelorarbeit, Projektstudie, and Masterarbeit
 We are seeking one M.Sc. student for computational research.
+
+</div>

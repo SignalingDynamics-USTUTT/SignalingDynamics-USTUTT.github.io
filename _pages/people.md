@@ -5,6 +5,8 @@ include_collection: people
 permalink: /people
 ---
 
+<div id="main">
+
 #### Principal Investigator
 
 <table><tbody>
@@ -25,3 +27,5 @@ permalink: /people
 #### You?
 
 Our lab is expanding! Please <a href="/join.md">click here</a> for more information.
+
+</div>

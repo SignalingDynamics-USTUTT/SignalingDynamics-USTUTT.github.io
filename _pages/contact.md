@@ -5,6 +5,7 @@ include_collection: contact
 permalink: /contact
 ---
 
+<div id="main">
 <table><tbody>
   <tr>
     <td>
@@ -34,3 +35,4 @@ permalink: /contact
     </td>
   </tr>
 </tbody></table>
+</div>
