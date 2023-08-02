@@ -12,19 +12,16 @@ permalink: /people
 
 #### Principal Investigator
 
-| Photo | ABC |
-| DEF   | ABC |
-
-
-
 <table><tbody>
   <tr>
     <td style="width:200px;"><p>
       <img src="../images/join/we_need_you.png" alt="We need you!" style="max-width:100%;">
-      <em style="color: #888888">&copy; Adobe Stock. </em>
     </p></td> 
     <td>
-      Our lab is expanding! We need people from all backgrounds (mathematics, physics, chemistry, biology, computer science, etc). If you are interested in our work and believe that science is exciting, please consider joining us! The current open positions are listed below. If none of them fits you, do not be frustrated! <a href="/contact">Contact us</a> to discuss further opportunities. 
+      <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
+      B.Sc. Chemistry, B.Sc. Computer Software, Peking University, China, 2011 <br>
+      M.Sc. Computational Biology and Bioinformatics, ETH Zurich and University of Zurich, Switzerland, 2013 <br>
+      Ph.D. Biophysics, University of Copenhagen, Denmark, 2017
     </td>
   </tr>
 </tbody></table>
