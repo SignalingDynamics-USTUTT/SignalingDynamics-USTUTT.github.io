@@ -4,11 +4,6 @@ title: "People"
 include_collection: people
 permalink: /people
 ---
-<style>
-  td, th {
-    border: none!important;
-  }
-</style>
 
 #### Principal Investigator
 
@@ -19,7 +14,8 @@ permalink: /people
     </p></td> 
     <td>
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
-      B.Sc. Chemistry, B.Sc. Computer Software, Peking University, China, 2011 <br>
+      B.Sc. Chemistry, Peking University, China, 2011 <br>
+      B.Sc. Computer Software, Peking University, China, 2011 <br>
       M.Sc. Computational Biology and Bioinformatics, ETH Zurich and University of Zurich, Switzerland, 2013 <br>
       Ph.D. Biophysics, University of Copenhagen, Denmark, 2017
     </td>
@@ -28,4 +24,4 @@ permalink: /people
 
 #### You?
 
-Our lab is expanding! Please visit <a href="/join.md">Join Us</a> for more information.
+Our lab is expanding! Please <a href="/join.md">click here</a> for more information.
