@@ -19,13 +19,13 @@ permalink: /join
   </tr>
 </tbody></table>
 
-<h4>Postdoctoral Researcher</h4><br>
+<h4>Postdoctoral Researcher</h4>
 Unfortunately, there is no open position.
 
-<h4>Doctoral Student</h4><br>
+<h4>Doctoral Student</h4>
 We are seeking one Doctoral Student with an experimental background.
 
-<h4>Bachelorarbeit, Projektstudie, and Masterarbeit</h4><br>
+<h4>Bachelorarbeit, Projektstudie, and Masterarbeit</h4>
 We are seeking one M.Sc. student for computational research.
 
 </div>
