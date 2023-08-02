@@ -103,8 +103,8 @@ navbar:
   - title   : Publication
     url     : /publication
   - title   : Join Us
-    url     : /joinus
-  - title   : Contact
+    url     : /join
+  - title   : Contact Us
     url     : /contact    
 #  - title   : # Label submenu
 #    child:		
@@ -178,7 +178,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"
+      layout: "dual"
       header_type: "base"
       include_on_search   : false
       cloudtag_url        : /tags #This is where the link on tags would redirect

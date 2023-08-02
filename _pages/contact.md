@@ -1,8 +1,8 @@
 ---
 layout: indexcategory
-title: "Cheatsheets"
-include_collection: cheatsheet
-permalink: /cheatsheets
+title: "Contact Us"
+include_collection: contact
+permalink: /contact
 show_breadcrumb: true
 ---
 
