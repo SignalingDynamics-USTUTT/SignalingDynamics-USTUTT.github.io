@@ -25,8 +25,8 @@ permalink: /join
 #### Postdoctoral Researcher
 Unfortunately, there is no open position.
 
-#### Predoctoral Researcher
-We are seeking one Pre-Doctoral Researcher with an experimental background.
+#### Doctoral Student
+We are seeking one Doctoral Student with an experimental background.
 
-#### Bachelor/Master Thesis, Project Study
+#### Bachelorarbeit, Projektstudie, and Masterarbeit
 We are seeking one M.Sc. student for computational research.
