@@ -156,11 +156,11 @@ chulapa-skin:
     footer-chulapa-text-color: white
     footer-chulapa-hover-color: "#888888"
     # blockquote
-    blockquote-chulapa-bg-color: "#444444"
-    blockquote-chulapa-text-color: "#BBBBBB"
+    blockquote-chulapa-bg-color: "#CCCCCC"
+    blockquote-chulapa-text-color: "#333333"
     # pagination
     pagination-chulapa-text-hover-color: black
-    pagination-chulapa-bg-hover-color: "#444444"
+    pagination-chulapa-bg-hover-color: "#CCCCCC"
 
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
