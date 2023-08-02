@@ -15,9 +15,9 @@ td, th {
 <tbody>
   <tr>
     <td>
-      <strong>Prof. Chengzhe Tian</strong><br>
-      <strong>E-Mail</strong>: chengzhe.tian AT izi.uni-stuttgart.de
-      <strong>Phone</strong>: +49 XXX XXX XXXXX
+      <strong>Jun-Prof. Chengzhe Tian</strong><br>
+      E-Mail: chengzhe.tian AT izi.uni-stuttgart.de <br>
+      Phone: +49 XXX XXX XXXXX
     </td>
     <td></td>
   </tr>
