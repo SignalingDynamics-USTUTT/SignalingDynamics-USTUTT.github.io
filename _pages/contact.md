@@ -7,12 +7,20 @@ permalink: /contact
 <style>
 td, th {
    border: none!important;
-   padding: 50px;
+   padding: 100px;
 }
 </style>
 
 <table>
 <tbody>
+  <tr>
+    <td>
+      <strong>Prof. Chengzhe Tian</strong><br>
+      <strong>E-Mail</strong>: chengzhe.tian AT izi.uni-stuttgart.de
+      <strong>Phone</storng>: +49 XXX XXX XXXXX
+    </td>
+    <td></td>
+  </tr>
   <tr>
     <td>
       <strong>Lab Address</strong><br>
