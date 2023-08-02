@@ -142,7 +142,6 @@ chulapa-skin:
   vars          :    
     # global
     primary: black
-    thead-chulapa-bg-color: black
     hero-chulapa-bg-color: black
     # navbar
     navbar-chulapa-bg-color: black
@@ -156,6 +155,9 @@ chulapa-skin:
     footer-chulapa-bg-color: black
     footer-chulapa-text-color: white
     footer-chulapa-hover-color: "#888888"
+    #pagination
+    pagination-chulapa-text-hover-color: black
+    pagination-chulapa-bg-hover-color: "#888888"
 
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
