@@ -3,6 +3,10 @@ layout: default
 title: "Join Us"
 include_collection: join
 permalink: /join
+show_breadcrumb: false
+breadcrumb_list:
+  - label: Home
+    url: /
 ---
 
 <div id="main">

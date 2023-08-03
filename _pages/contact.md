@@ -3,6 +3,10 @@ layout: default
 title: "Contact Us"
 include_collection: contact
 permalink: /contact
+show_breadcrumb: false
+breadcrumb_list:
+  - label: Home
+    url: /
 ---
 
 <div id="main">

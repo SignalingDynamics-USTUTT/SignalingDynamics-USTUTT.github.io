@@ -2,11 +2,13 @@
 layout: default
 title: "People"
 include_collection: people
-permalink: /people
-show_breadcrumb: false
+permalink: /people/ChengzheTian
+show_breadcrumb: true
 breadcrumb_list:
   - label: Home
     url: /
+  - label: People
+    url: /people
 ---
 
 <div id="main">
