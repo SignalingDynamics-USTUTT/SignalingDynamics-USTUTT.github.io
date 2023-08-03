@@ -10,7 +10,7 @@ permalink: /people
 <table><tbody>
   <tr>
     <td style="width:180px;"><p>
-      <img src="../_images/people/ChengzheTian_small.png" alt="Chengzhe Tian" style="max-width:100%;">
+      <img src="../images/people/ChengzheTian_small.png" alt="Chengzhe Tian" style="max-width:100%;">
     </p></td> 
     <td>
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
