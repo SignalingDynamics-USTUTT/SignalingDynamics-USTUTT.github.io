@@ -13,7 +13,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:120px"><p>
-      <img src="../images/people/ChengzheTian_small.png" alt="Chengzhe Tian" width="120px" height="120px">
+      <img src="../images/people/ChengzheTian_small.png" alt="Chengzhe Tian" width="120" height="120">
     </p></td> 
     <td style="padding-left:20px">
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
