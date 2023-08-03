@@ -16,11 +16,84 @@ breadcrumb_list:
       <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
     </p></td> 
     <td style="padding-left:20px">
-      <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
-      2023.08-Present <br>
-      Allmandring 5B, Room XXX <br> 
-      E-Mail. chengzhe.tian AT izi.uni-stuttgart.de <br>
-      <a href="/people/ChengzheTian">Read More</a>
+      J.Y. Chen, C. Hug, J. Reyes, <strong>C. Tian</strong>, L. Gerosa, F. Fr&#246;hlich, B. Ponsioen, H.J.G. Snippert, S.L. Spencer, A. Jambhekar, P.K. Sorger, G. Lahav. Multi range ERK responses shape the proliferative trajectory of single cells following oncogene induced senescence. <em>Cell. Rep.</em> 42: 112252 (2023).
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    </p></td> 
+    <td style="padding-left:20px">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    </p></td> 
+    <td style="padding-left:20px">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    </p></td> 
+    <td style="padding-left:20px">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    </p></td> 
+    <td style="padding-left:20px">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    </p></td> 
+    <td style="padding-left:20px">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    </p></td> 
+    <td style="padding-left:20px">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    </p></td> 
+    <td style="padding-left:20px">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    </p></td> 
+    <td style="padding-left:20px">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    </p></td> 
+    <td style="padding-left:20px">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    </p></td> 
+    <td style="padding-left:20px">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    </p></td> 
+    <td style="padding-left:20px">
     </td>
   </tr>
 </tbody></table>
