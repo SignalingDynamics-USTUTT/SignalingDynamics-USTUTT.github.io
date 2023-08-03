@@ -22,9 +22,8 @@ breadcrumb_list:
       B.Sc. Chemistry, Peking University, China, 2011 <br>
       B.Sc. Computer Software, Peking University, China, 2011 <br>
       M.Sc. Computational Biology and Bioinformatics, ETH Zurich and University of Zurich, Switzerland, 2013 <br>
-      Ph.D. Biophysics, University of Copenhagen, Denmark, 2017
-
-      <strong>Test</strong><br>
+      Ph.D. Biophysics, University of Copenhagen, Denmark, 2017 <br><br>
+      <strong>Test</strong> <br>
       Test
     </td>
   </tr>
