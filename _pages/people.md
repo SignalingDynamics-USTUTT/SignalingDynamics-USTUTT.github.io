@@ -3,7 +3,7 @@ layout: default
 title: "People"
 include_collection: people
 permalink: /people
-show_breadcrumb: false
+show_breadcrumb: true
 breadcrumb_list:
   - label: Home
     url: /

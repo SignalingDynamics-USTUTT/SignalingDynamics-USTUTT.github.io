@@ -3,7 +3,7 @@ layout: default
 title: "Research"
 include_collection: research
 permalink: /research
-show_breadcrumb: false
+show_breadcrumb: true
 breadcrumb_list:
   - label: Home
     url: /

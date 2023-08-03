@@ -3,7 +3,7 @@ layout: default
 title: "Publication"
 include_collection: publication
 permalink: /publication
-show_breadcrumb: false
+show_breadcrumb: true
 breadcrumb_list:
   - label: Home
     url: /

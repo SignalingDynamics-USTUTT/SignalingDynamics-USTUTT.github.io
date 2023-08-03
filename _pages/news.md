@@ -3,7 +3,7 @@ layout: default
 title: "News"
 include_collection: news
 permalink: /news
-show_breadcrumb: false
+show_breadcrumb: true
 breadcrumb_list:
   - label: Home
     url: /
