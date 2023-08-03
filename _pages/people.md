@@ -9,8 +9,8 @@ permalink: /people
 <h4>Principal Investigator</h4>
 <table><tbody>
   <tr>
-    <td style="width:200px;"><p>
-      <img src="../images/join/we_need_you.png" alt="We need you!" style="max-width:100%;">
+    <td style="width:180px;"><p>
+      <img src="../_images/people/ChengzheTian_small.png" alt="Chengzhe Tian" style="max-width:100%;">
     </p></td> 
     <td>
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
