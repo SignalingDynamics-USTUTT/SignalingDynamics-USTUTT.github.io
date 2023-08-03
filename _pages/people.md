@@ -9,7 +9,7 @@ permalink: /people
 <h4>Principal Investigator</h4>
 <table><tbody>
   <tr>
-    <td style="width:180px;"><p>
+    <td style="width:120px;"><p>
       <img src="../images/people/ChengzheTian_small.png" alt="Chengzhe Tian" style="max-width:100%;">
     </p></td> 
     <td>
