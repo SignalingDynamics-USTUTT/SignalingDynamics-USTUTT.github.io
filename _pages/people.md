@@ -23,6 +23,6 @@ permalink: /people
 </tbody></table>
 
 <h4>You?</h4>
-Our lab is expanding! Please <a href="/join">click here</a> for more information.
+Do you want to be listed on this page? Our lab is expanding! Please <a href="/join">click here</a> for more information.
 
 </div>
