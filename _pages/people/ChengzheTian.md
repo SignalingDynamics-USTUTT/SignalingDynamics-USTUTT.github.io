@@ -24,7 +24,8 @@ breadcrumb_list:
       M.Sc. Computational Biology and Bioinformatics, ETH Zurich and University of Zurich, Switzerland, 2013 <br>
       Ph.D. Biophysics, University of Copenhagen, Denmark, 2017 <br><br>
       <strong>Test</strong> <br>
-      Test
+      Test <br><br>
+      <a href="/people">Return to People</a>
     </td>
   </tr>
 </tbody></table>
