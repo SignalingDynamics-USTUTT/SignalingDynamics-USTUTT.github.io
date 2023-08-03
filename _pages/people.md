@@ -3,6 +3,10 @@ layout: default
 title: "People"
 include_collection: people
 permalink: /people
+show_breadcrumb: true
+breadcrumb_list:
+  - label: Home
+    url: /
 ---
 
 <div id="main">

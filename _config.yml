@@ -230,7 +230,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
 
-
 # Exclude these files from production site
 exclude:
   - LICENSE
