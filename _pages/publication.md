@@ -13,7 +13,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:120px"><p>
-      <img src="../images/people/ChengzheTian_small.png" alt="Chengzhe Tian" width="120" height="120">
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
     </p></td> 
     <td style="padding-left:20px">
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
@@ -24,8 +24,4 @@ breadcrumb_list:
     </td>
   </tr>
 </tbody></table>
-
-<h4>As a Doctoral Student</h4>
-Do you want to be listed on this page? Our lab is expanding! Please <a href="/join">click here</a> for more information.
-
 </div>
