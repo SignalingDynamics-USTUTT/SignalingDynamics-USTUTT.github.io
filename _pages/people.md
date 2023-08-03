@@ -21,7 +21,7 @@ breadcrumb_list:
       2023.08-Present <br>
       Allmandring 5B, Room XXX <br> 
       E-Mail. chengzhe.tian AT izi.uni-stuttgart.de <br>
-      Read More
+      <a href="/people/ChengzheTian">Read More</a>
     </td>
   </tr>
 </tbody></table>
