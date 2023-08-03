@@ -12,7 +12,7 @@ permalink: /people
     <td style="width:120px;"><p>
       <img src="../images/people/ChengzheTian_small.png" alt="Chengzhe Tian" style="max-width:100%;">
     </p></td> 
-    <td>
+    <td style="padding-left:20px">
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
       2023.08-Present <br>
       Allmandring 5B, Room XXX <br> 
