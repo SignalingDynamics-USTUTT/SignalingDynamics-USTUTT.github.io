@@ -14,10 +14,10 @@ permalink: /people
     </p></td> 
     <td>
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
-      B.Sc. Chemistry, Peking University, China, 2011 <br>
-      B.Sc. Computer Software, Peking University, China, 2011 <br>
-      M.Sc. Computational Biology and Bioinformatics, ETH Zurich and University of Zurich, Switzerland, 2013 <br>
-      Ph.D. Biophysics, University of Copenhagen, Denmark, 2017
+      2023.08-Present <br>
+      Allmandring 5B, Room XXX <br> 
+      E-Mail. chengzhe.tian AT izi.uni-stuttgart.de <br>
+      Read More
     </td>
   </tr>
 </tbody></table>
