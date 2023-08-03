@@ -10,11 +10,10 @@ breadcrumb_list:
 ---
 
 <div id="main">
-<h4>As a Postdoctoral Researcher</h4>
 <table><tbody>
   <tr>
-    <td style="width:120px;"><p>
-      <img src="../images/people/ChengzheTian_small.png" alt="Chengzhe Tian" style="max-width:100%;">
+    <td style="width:120px"><p>
+      <img src="../images/people/ChengzheTian_small.png" alt="Chengzhe Tian" width="120px" height="120px">
     </p></td> 
     <td style="padding-left:20px">
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
