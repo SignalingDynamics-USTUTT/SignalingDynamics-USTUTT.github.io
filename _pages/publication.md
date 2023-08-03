@@ -12,8 +12,8 @@ breadcrumb_list:
 <div id="main">
 <table><tbody>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       J.Y. Chen, C. Hug, J. Reyes, <strong>C. Tian</strong>, L. Gerosa, F. Fr&#246;hlich, B. Ponsioen, H.J.G. Snippert, S.L. Spencer, A. Jambhekar, P.K. Sorger, G. Lahav. 
@@ -23,8 +23,8 @@ breadcrumb_list:
     </td>
   </tr>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       C. Yang,* <strong>C. Tian</strong>,* T. Hoffman,* N. Jacobsen, S. Spencer. 
@@ -34,8 +34,8 @@ breadcrumb_list:
     </td>
   </tr>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       <strong>C. Tian</strong>,* C. Yang,* S. Spencer. 
@@ -45,8 +45,8 @@ breadcrumb_list:
     </td>
   </tr>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       M. Min, Y. Rong, <strong>C. Tian</strong>, S. Spencer. 
@@ -56,8 +56,8 @@ breadcrumb_list:
     </td>
   </tr>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       R. Fu, A. Gillen, R. Sheridan, <strong>C. Tian</strong>, M. Daya, Y. Hao, J. Hesselberth, K. Riemondy. 
@@ -67,8 +67,8 @@ breadcrumb_list:
     </td>
   </tr>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       I. Miller, M. Min, C. Yang, <strong>C. Tian</strong>, S. Gookin, D. Carter, S. Spencer. 
@@ -78,8 +78,8 @@ breadcrumb_list:
     </td>
   </tr>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       <strong>C. Tian</strong>, S. Semsey, N. Mitarai. 
@@ -89,8 +89,8 @@ breadcrumb_list:
     </td>
   </tr>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       R.A. Kellogg,* <strong>C. Tian</strong>,* M. Etzrodt, S. Tay. 
@@ -100,8 +100,8 @@ breadcrumb_list:
     </td>
   </tr>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       <strong>C. Tian</strong>,* M. Roghanian,* M.G. Jorgensen, K. Sneppen, M.A. S&#248;rensen, K. Gerdes, N. Mitarai. 
@@ -111,8 +111,8 @@ breadcrumb_list:
     </td>
   </tr>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       <strong>C. Tian</strong>, N. Mitarai. 
@@ -122,8 +122,8 @@ breadcrumb_list:
     </td>
   </tr>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       R.A. Kellogg, <strong>C. Tian</strong>, T. Lipniacki, S.R. Quake, S. Tay. 
@@ -133,8 +133,8 @@ breadcrumb_list:
     </td>
   </tr>
   <tr>
-    <td style="width:120px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" width="120" height="120">
+    <td style="width:100px"><p>
+      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       H. Zhang, M. Lin, H. Shi, W. Ji, L. Huang, X. Zhang, S. Shen, R. Gao, S. Wu, <strong>C. Tian</strong>, Z. Yang, G. Zhang, S. He, H. Wang, T. Saw, Y. Chen, Q. Ouyang. 
