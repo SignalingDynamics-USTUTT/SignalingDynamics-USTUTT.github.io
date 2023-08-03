@@ -95,7 +95,7 @@ navbar:
     img     : # An small image, try 30x30px
   nav:
   - title   : News
-    url     : /news/	
+    url     : /news
   - title   : Research
     url     : /research
   - title   : People
