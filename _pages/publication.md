@@ -13,7 +13,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/no_image.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/no_image.png" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       J.Y. Chen, C. Hug, J. Reyes, <strong>C. Tian</strong>, L. Gerosa, F. Fr&#246;hlich, B. Ponsioen, H.J.G. Snippert, S.L. Spencer, A. Jambhekar, P.K. Sorger, G. Lahav. 
@@ -24,7 +24,7 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/image_placeholder.png" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       C. Yang,* <strong>C. Tian</strong>,* T. Hoffman,* N. Jacobsen, S. Spencer. 
@@ -35,7 +35,7 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/image_placeholder.png" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       <strong>C. Tian</strong>,* C. Yang,* S. Spencer. 
@@ -46,7 +46,7 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/no_image.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/no_image.png" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       M. Min, Y. Rong, <strong>C. Tian</strong>, S. Spencer. 
@@ -57,7 +57,7 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/no_image.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/no_image.png" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       R. Fu, A. Gillen, R. Sheridan, <strong>C. Tian</strong>, M. Daya, Y. Hao, J. Hesselberth, K. Riemondy. 
@@ -68,7 +68,7 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/no_image.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/no_image.png" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       I. Miller, M. Min, C. Yang, <strong>C. Tian</strong>, S. Gookin, D. Carter, S. Spencer. 
@@ -79,7 +79,9 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <a href="https://doi.org/10.1093/nar/gkx552">
+        <img src="../images/publication/NAR2017.png" style="max-width:100%;">
+      </a>  
     </p></td> 
     <td style="padding-left:20px">
       <strong>C. Tian</strong>, S. Semsey, N. Mitarai. 
@@ -91,7 +93,7 @@ breadcrumb_list:
   <tr>
     <td style="width:100px"><p>
       <a href="https://doi.org/10.1016/j.celrep.2017.03.027">
-        <img src="../images/publication/CellReport2017.png" alt="CellReport2017" style="max-width:100%;">
+        <img src="../images/publication/CellReport2017.png" style="max-width:100%;">
       </a>
     </p></td> 
     <td style="padding-left:20px">
@@ -103,7 +105,9 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <a href="https://doi.org/10.1128/jb.00062-16">
+        <img src="../images/publication/JBact2016.png" style="max-width:100%;">
+      </a> 
     </p></td> 
     <td style="padding-left:20px">
       <strong>C. Tian</strong>,* M. Roghanian,* M.G. Jorgensen, K. Sneppen, M.A. S&#248;rensen, K. Gerdes, N. Mitarai. 
@@ -114,7 +118,9 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <a href="https://doi.org/10.1063/1.4953242">
+        <img src="../images/publication/JChemPhys2016.png" style="max-width:100%;">
+      </a> 
     </p></td> 
     <td style="padding-left:20px">
       <strong>C. Tian</strong>, N. Mitarai. 
@@ -126,7 +132,7 @@ breadcrumb_list:
   <tr>
     <td style="width:100px"><p>
       <a href="https://doi.org/10.7554/elife.08931">
-        <img src="../images/publication/eLife2015.png" alt="eLife2015" style="max-width:100%;">
+        <img src="../images/publication/eLife2015.png" style="max-width:100%;">
       </a>  
     </p></td> 
     <td style="padding-left:20px">
@@ -138,7 +144,7 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/no_image.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/no_image.png" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       H. Zhang, M. Lin, H. Shi, W. Ji, L. Huang, X. Zhang, S. Shen, R. Gao, S. Wu, <strong>C. Tian</strong>, Z. Yang, G. Zhang, S. He, H. Wang, T. Saw, Y. Chen, Q. Ouyang. 
