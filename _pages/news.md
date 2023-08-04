@@ -10,5 +10,9 @@ breadcrumb_list:
 ---
 
 <div id="main">
-TBD
+
+| 04.08.2023 | We are hiring new lab members.                                                                        |
+| 01.08.2023 | The Junior Research Group "Signaling Dynamics in Cellular Biomedical Systems" officially opens today. |
+
+
 </div>
