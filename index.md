@@ -2,7 +2,7 @@
 layout: default
 title: Signaling Dynamics of Cellular Biomedical Systems
 header_type: splash
-header_img: /images/homepage/last_frame.jpg
+header_img: /images/homepage/homepage_movie.gif
 subtitle: Institute of Cell Biology and Immunology, University of Stuttgart
 ---
 
