@@ -13,7 +13,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/no_image.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       J.Y. Chen, C. Hug, J. Reyes, <strong>C. Tian</strong>, L. Gerosa, F. Fr&#246;hlich, B. Ponsioen, H.J.G. Snippert, S.L. Spencer, A. Jambhekar, P.K. Sorger, G. Lahav. 
@@ -46,7 +46,7 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/no_image.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       M. Min, Y. Rong, <strong>C. Tian</strong>, S. Spencer. 
@@ -57,7 +57,7 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/no_image.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       R. Fu, A. Gillen, R. Sheridan, <strong>C. Tian</strong>, M. Daya, Y. Hao, J. Hesselberth, K. Riemondy. 
@@ -68,7 +68,7 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/no_image.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       I. Miller, M. Min, C. Yang, <strong>C. Tian</strong>, S. Gookin, D. Carter, S. Spencer. 
@@ -134,7 +134,7 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/no_image.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       H. Zhang, M. Lin, H. Shi, W. Ji, L. Huang, X. Zhang, S. Shen, R. Gao, S. Wu, <strong>C. Tian</strong>, Z. Yang, G. Zhang, S. He, H. Wang, T. Saw, Y. Chen, Q. Ouyang. 
