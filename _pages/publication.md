@@ -90,7 +90,9 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <a href="https://doi.org/10.1016/j.celrep.2017.03.027">
+        <img src="../images/publication/CellReport2017.png" alt="CellReport2017" style="max-width:100%;">
+      </a>
     </p></td> 
     <td style="padding-left:20px">
       R.A. Kellogg,* <strong>C. Tian</strong>,* M. Etzrodt, S. Tay. 
@@ -123,7 +125,9 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/eLife2015.png" alt="Placeholder" style="max-width:100%;">
+      <a href="https://doi.org/10.7554/elife.08931">
+        <img src="../images/publication/eLife2015.png" alt="eLife2015" style="max-width:100%;">
+      </a>  
     </p></td> 
     <td style="padding-left:20px">
       R.A. Kellogg, <strong>C. Tian</strong>, T. Lipniacki, S.R. Quake, S. Tay. 
