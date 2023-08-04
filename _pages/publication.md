@@ -123,7 +123,7 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" alt="Placeholder" style="max-width:100%;">
+      <img src="../images/publication/eLife2015.png" alt="Placeholder" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       R.A. Kellogg, <strong>C. Tian</strong>, T. Lipniacki, S.R. Quake, S. Tay. 
