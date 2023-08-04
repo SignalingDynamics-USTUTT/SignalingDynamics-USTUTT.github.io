@@ -27,9 +27,9 @@ breadcrumb_list:
 Unfortunately, there is no open position.
 
 <h4>Doctoral Student</h4>
-We are seeking one Doctoral Student with an experimental background.
+We are seeking one Doctoral Student with a cell-biology background. More information will be available soon.
 
 <h4>Bachelorarbeit, Projektstudie, and Masterarbeit</h4>
-We are seeking one M.Sc. student for computational research.
+We are seeking one M.Sc. student for computational research. More information will be available soon.
 
 </div>
