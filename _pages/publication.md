@@ -24,7 +24,9 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" style="max-width:100%;">
+      <a href="https://doi.org/10.1038/s41467-021-21549-x">
+        <img src="../images/publication/NatComms2021.png" style="max-width:100%;">
+      </a>  
     </p></td> 
     <td style="padding-left:20px">
       C. Yang,* <strong>C. Tian</strong>,* T. Hoffman,* N. Jacobsen, S. Spencer. 
@@ -35,7 +37,9 @@ breadcrumb_list:
   </tr>
   <tr>
     <td style="width:100px"><p>
-      <img src="../images/publication/image_placeholder.png" style="max-width:100%;">
+      <a href="https://doi.org/10.1016/j.celrep.2020.107984">
+        <img src="../images/publication/CellReport2020.png" style="max-width:100%;">
+      </a>  
     </p></td> 
     <td style="padding-left:20px">
       <strong>C. Tian</strong>,* C. Yang,* S. Spencer. 
