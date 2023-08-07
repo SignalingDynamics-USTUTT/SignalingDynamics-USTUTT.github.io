@@ -11,6 +11,8 @@ breadcrumb_list:
 
 <div id="main">
 
+<img src="../images/research/escapee_nonescapee.gif" alt="Escapee vs Non-Escapee" style="max-width:100%;">
+
 <video width="640" controls autoplay>
   <source src="../images/research/escapee_nonescapee.mp4" type=video/mp4>
 </video>
