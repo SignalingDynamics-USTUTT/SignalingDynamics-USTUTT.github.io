@@ -11,7 +11,7 @@ breadcrumb_list:
 
 <div id="main">
 
-<video width="800" controls autoplay>
+<video width="640" controls autoplay>
   <source src="../images/research/escapee_nonescapee.mp4" type=video/mp4>
 </video>
 
