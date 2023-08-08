@@ -4,3 +4,4 @@
 .Ruserdata
 project.Rproj
 *.db
+local/
