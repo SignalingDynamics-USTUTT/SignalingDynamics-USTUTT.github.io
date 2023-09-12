@@ -11,19 +11,13 @@ breadcrumb_list:
 
 <div id="main">
 
-Cancer is a leading cause of death. Despite the development of increasingly effective therapies, cancer inevitably strikes back, typically via a few cells acquiring genetic mutations that bypass the oncogenic inhibition. Understanding <em>which</em> and <em>how</em> cells acquire such resistance is necessary for identifying therapies that better extend patients' quantity and quality of life.
-
-
-
-
-
-
-
-
-Melanoma skin cancer is a typical model for research and has one of the fastest-increasing incidences among all cancer types in light-skinned populations. In my postdoctoral research, my collaborators and I developed innovative time-lapse microscopy and automated image-processing technologies, enabling us for the first time to directly monitor thousands of single melanoma cells over the first two weeks of treatment with clinically approved drugs (Fig. 1). We observed an unprecedented level of cell-to-cell heterogeneity and identified a previously neglected subpopulation that rapidly escaped the drug action and proliferated via reversible, non-genetic mechanisms. These “escapees” subsequently acquire genetic mutations during treatment due to heightened DNA damage, leading to irreversible proliferation and cancer recurrence. My work unraveled the key role of escapees in cancer recurrence and exemplified the power of interdisciplinary, systems-biology approaches in understanding critical biological processes. We have observed escapees across multiple cancer and therapeutic types, and a recent clinical study also proved the prognostic value of escapees toward the recurrence of prostate cancer (Trock et al. J Urol., 2022). This positions my work as highly impactful, with strong translational potential.
+<h4>Background</h4>
+<p>
+Cancer is a leading cause of death. Despite the development of increasingly effective targeted therapies, cancer inevitably strikes back, typically via rare cells acquiring genetic mutations that bypass the oncogenic inhibition. Understanding <em>which</em> and <em>how</em> cells acquire such resistance is necessary for therapeutic optimization that extends patients' quantity and quality of life
 </p>
-
-
+<p>
+While recent technical advances enable accurate profiling of single cancer cells at fixed timepoints, little is known about the temporal dynamics inbetween. To overcome this critical limitation, my collaborators and I developed innovative time-lapse microscopy and automated image-analysis algorithms, allowing us to continuously monitor thousands of single drug-treated cancer cells in their native states over two weeks. Applying them to BRAF-driven melanoma cells, we identified a subpopulation ("escapees") that rapidly escaped the action of clinically approved BRAF inhibitors and entered a slow-cycling state via non-genetic mechanisms. While these cells out-proliferated the non-escapees, they displayed heightened DNA damage and thus were more likely to acquire genetic mutations. This indicates that escapees could be the seed population driving the formation of cancer recurrence.
+</p>
 <img src="../images/research/escapee_nonescapee.gif" alt="Escapee vs Non-Escapee" style="max-width:100%;">
 
 
