@@ -25,7 +25,9 @@ breadcrumb_list:
       Allmandring 5B, Room 2.052 <br> 
       E-Mail. chengzhe.tian AT izi.uni-stuttgart.de <br>
       <a href="/people/ChengzheTian">Read More</a>
-      <li class="et-social-icon"><a href="https://orcid.org/0000-0002-2269-1979/" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid ai-3x"></i></a></li>
+      <ul>
+        <li class="et-social-icon"><a href="https://orcid.org/0000-0002-2269-1979/" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid ai-3x"></i></a></li>
+      </ul>
 
 
     </td>
