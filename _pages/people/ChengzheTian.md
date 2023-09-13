@@ -30,7 +30,7 @@ breadcrumb_list:
         <li><a href="https://scholar.google.com/citations?user=kYbYBFgAAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar fa-solid"></i></a></li>
         <li><a href="https://www.linkedin.com/in/chengzhe-tian-18509a35/" target="_blank" rel="noopener" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
       </ul><br>
-      <strong>Self Introduction</strong>
+      <strong>Self-Introduction</strong>
       <p>I am a Junior Professor at the <a href="https://www.izi.uni-stuttgart.de/">Institute of Cell Biology and Immunology</a> of the <a href="https://www.uni-stuttgart.de/">University of Stuttgart</a>. I was initially trained as a computational biologist building mathematical models for signaling pathways (Master and Ph.D.) and later got in touch the "other world" by immersing myself in the wet lab (Postdoc). Now, I spend half of my time in the laboratory culturing and imaging cells and spend the other half in front of computers writing scripts. I have published several papers in internationally reputable journals as the first or co-first author, such as Nature Communications, Cell Reports, eLife, and Nucleic Acids Research, and all of my work are highly interdisciplinary. In Stuttgart, I am looking forward to combine my diverse expertises to reveal why cancer therapies fail.</p>
  <br><br>
       <a href="/people">Return to People</a>
