@@ -19,7 +19,7 @@ breadcrumb_list:
     <td style="padding-left:20px">
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
       2023.08-Present <br>
-      Allmandring 5B, Room 2.052 <br><br>
+      Allmandring 5B, Room 2.052 <br>
       <ul style="margin:0; padding-left:0;">
         <li><a href="mailto:chengzhe.tian@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
         <li><a href="../images/people/CV_ChengzheTian.pdf" target="_blank" rel="noopener" title="CV"><i class="ai ai-cv fa-solid"></i></a></li>
