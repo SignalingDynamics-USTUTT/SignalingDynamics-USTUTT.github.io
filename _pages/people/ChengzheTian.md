@@ -31,7 +31,7 @@ breadcrumb_list:
       M.Sc. Computational Biology and Bioinformatics, ETH Z&uuml;rich and University of Z&uuml;rich, Switzerland, 2013 <br>
       Ph.D. Biophysics, University of Copenhagen, Denmark, 2017 <br><br>
       <strong>Previous Positions</strong><br>
-      Research Assistant, Z&uuml;rich, Switzerland, 2013-2014 <br>
+      Research Assistant, ETH Z&uuml;rich, Switzerland, 2013-2014 <br>
       Postdoctoral Researcher, University of Colorado Boulder, USA, 2017-2022 <br>
       Project Scientist, CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences, Austria, 2022-2023 <br><br> 
       <strong>Current Position</strong><br>
