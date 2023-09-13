@@ -13,7 +13,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="padding-right:20px"><strong>14.09.2023</strong></td> 
-    <td>We are seeking one experimental Postdoctoral Researcher and one computational B.Sc./M.Sc. student. <a href="/join">Click here</a> for more information.</td>
+    <td>We are seeking an experimental Postdoctoral Researcher and a computational M.Sc. student. <a href="/join">Click here</a> for more information.</td>
   </tr>
   <tr>
     <td style="padding-right:20px"><strong>01.08.2023</strong></td>
