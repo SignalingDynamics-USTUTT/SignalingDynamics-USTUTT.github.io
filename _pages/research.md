@@ -26,5 +26,4 @@ breadcrumb_list:
 <p><b>Molecular Mechanisms.</b> Combining our imaging approach with single-cell sequencing technologies, we will identify the signaling pathways driving drug escaping at each characteristic timescale. Classical cell biology and genetic approaches will then help dissect the detailed molecular mechanisms and identify novel therapeutic targets. Our goal is to unravel the dynamics and sequences of events by which cancer recurrence emerges.
 
 <p><b>Therapeutic Optimization.</b> The dosages and timings of therapeutic administration strongly impact the clinical outcomes, yet they are less addressed in basic research. Through imaging and computational modeling, we will systematically quantify how these parameters impact the evolution of tumor sizes and identify the scenario that leads to the minimal residual population without high overall toxicity to the patients. Our work constitutes an important step towards model-guided optimal scheduling of therapeutic administration.</p> 
-
 </div>
