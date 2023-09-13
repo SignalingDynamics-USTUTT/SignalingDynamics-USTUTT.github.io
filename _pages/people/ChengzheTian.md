@@ -28,7 +28,7 @@ breadcrumb_list:
       <strong>Education</strong><br>
       B.Sc. Chemistry, Peking University, China, 2011 <br>
       B.Sc. Computer Software, Peking University, China, 2011 <br>
-      M.Sc. Computational Biology and Bioinformatics, ETH Zurich and University of Zurich, Switzerland, 2013 <br>
+      M.Sc. Computational Biology and Bioinformatics, ETH Z&uuml;rich and University of Z&uuml;rich, Switzerland, 2013 <br>
       Ph.D. Biophysics, University of Copenhagen, Denmark, 2017 <br><br>
       <strong>Self-Introduction</strong>
       <p>I am a Junior Professor at the <a href="https://www.izi.uni-stuttgart.de/">Institute of Cell Biology and Immunology</a> of the <a href="https://www.uni-stuttgart.de/">University of Stuttgart</a>. I was initially trained as a computational biologist building mathematical models for signaling pathways (Master and Ph.D.) and later got in touch the "other world" by immersing myself in the wet lab (Postdoc). Now, I spend half of my time in the laboratory culturing and imaging cells and spend the other half in front of computers writing scripts. I have published several papers in internationally reputable journals as the first or co-first author, such as Nature Communications, Cell Reports, eLife, and Nucleic Acids Research, and all of my work are highly interdisciplinary. In Stuttgart, I am looking forward to combine my diverse expertises to reveal why cancer therapies fail.</p><br>
