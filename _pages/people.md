@@ -21,13 +21,13 @@ breadcrumb_list:
       2023.08-Present <br>
       Allmandring 5B, Room 2.052 <br> 
       E-Mail. chengzhe.tian AT izi.uni-stuttgart.de <br>
-      <a href="/people/ChengzheTian">Read More</a>
       <ul>
         <li class="et-social-icon"><a href="../images/people/CV_ChengzheTian.pdf" target="_blank" rel="noopener" title="CV"><i class="ai ai-cv"></i></a></li>
         <li class="et-social-icon"><a href="https://orcid.org/0000-0002-2269-1979/" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid"></i></a></li>
         <li class="et-social-icon"><a href="https://scholar.google.com/citations?user=kYbYBFgAAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
         <li class="fa-brands fa-linkedin-in"><a href="https://www.linkedin.com/in/chengzhe-tian-18509a35/" target="_blank" rel="noopener" title="Linkedin"><i class="ai ai-orcid"></i></a></li>
       </ul>
+      <a href="/people/ChengzheTian">Read More</a>
     </td>
   </tr>
 </tbody></table>
