@@ -16,7 +16,7 @@ breadcrumb_list:
   <tr>
     <td style="width:180px;"><p>
       <img src="../images/people/ChengzheTian_large.png" alt="Chengzhe Tian" style="max-width:100%;">
-      <ul style="margin:0; padding-left:0;">
+      <ul style="margin:0; padding-left:0; text-align: center">
         <li><a href="mailto:chengzhe.tian@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
         <li><a href="../images/people/CV_ChengzheTian.pdf" target="_blank" rel="noopener" title="CV"><i class="ai ai-cv fa-solid"></i></a></li>
         <li><a href="https://orcid.org/0000-0002-2269-1979/" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid fa-solid"></i></a></li>
