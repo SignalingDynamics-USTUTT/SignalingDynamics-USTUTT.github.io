@@ -13,7 +13,7 @@ breadcrumb_list:
 
 <table><tbody>
   <tr>
-    <td style="width:200px;"><p>
+    <td style="width:120px;"><p>
       <img src="../images/join/we_need_you.png" alt="We need you!" style="max-width:100%;">
       <em style="color: #888888">&copy; Adobe Stock. </em>
     </p></td> 
@@ -24,7 +24,7 @@ breadcrumb_list:
 </tbody></table>
 
 <h4>Postdoctoral Researcher</h4>
-<p><strong>Posted on 14.09.2023.</strong> We are seeking a Postdoctoral Researcher (TV-L E13, 100%) who has solid Ph.D. training in cell biology to build the experimental pillar of the lab. If you are an expert in designing and executing experiments to dissect cell signaling and are excited about learning microscopy and computational modeling, please submit a letter of motivation, CV, list of publications, and contact information of three referees to <a href="mailto:chengzhe.tian@izi.uni-stuttgart.de">Jun-Prof. Chengzhe Tian</a>. The full advertisement will be available soon. Informal inquiry is always welcome.</p>
+<p><strong>Posted on 14.09.2023.</strong> We are seeking a Postdoctoral Researcher (TV-L E13, 100%) who has solid Ph.D. training in cell biology to build the experimental pillar of the lab. If you are an expert in designing and executing experiments to dissect cell signaling and are excited about learning microscopy and computational modeling, please submit a letter of motivation, CV, list of publications, and contact information of three referees to <a href="mailto:chengzhe.tian@izi.uni-stuttgart.de">Jun-Prof. Chengzhe Tian</a>. The official job advertisement will be available soon. Informal inquiry is always welcome.</p>
 
 <h4>Doctoral Student</h4>
 <p>Unfortunately, there are no open positions.</p>
