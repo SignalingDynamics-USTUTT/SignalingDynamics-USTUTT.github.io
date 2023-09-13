@@ -21,7 +21,7 @@ breadcrumb_list:
       2023.08-Present <br>
       Allmandring 5B, Room 2.052 <br> 
       <ul style="margin:0; padding-left:0;">
-        <li><a href="mailto:chengzhe.tian@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-regular fa-envelope"></i></a></li>
+        <li><a href="mailto:chengzhe.tian@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
         <li><a href="../images/people/CV_ChengzheTian.pdf" target="_blank" rel="noopener" title="CV"><i class="ai ai-cv fa-solid"></i></a></li>
         <li><a href="https://orcid.org/0000-0002-2269-1979/" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid fa-solid"></i></a></li>
         <li><a href="https://scholar.google.com/citations?user=kYbYBFgAAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar fa-solid"></i></a></li>
