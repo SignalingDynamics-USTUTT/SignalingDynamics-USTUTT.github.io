@@ -34,6 +34,6 @@ breadcrumb_list:
 </tbody></table>
 
 <h4>You?</h4>
-Do you want to be listed on this page? Our lab is expanding! <a href="/join">Check out</a> the latest open positions.
+<p>Do you want to be listed on this page? Our lab is expanding! <a href="/join">Check out</a> the latest open positions.</p>
 
 </div>
