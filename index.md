@@ -6,20 +6,6 @@ header_img: /images/homepage/homepage_movie.gif
 subtitle: Institute of Cell Biology and Immunology, University of Stuttgart
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+Our research integrates cutting-edge experimental, computational, and theoretical approaches to dissect the molecular origins of cell-to-cell heterogeneity and its implications for human diseases. Our lab officially opens on 01.08.2023 and is supported by the <a href="https://www.tenuretrack.de/en/the-tenure-track-programme">Tenure-Track program</a> of the Federal Ministry of Education and Research and the State of Baden-W&uuml;rttemburg. 
 
-Contains basic configuration to get you a site with:
-
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
-
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
-
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+We aim to build an interdisciplinary team consisting of biologists, chemists, physics, mathematicians, and engineers. If you are interested in our research and believe that science is exciting, please <a href="/join">join us</a>! We have an open position for a Postdoctoral Researcher (TV-L E13, 100%). <a href="/join">Click here</a> for more information.

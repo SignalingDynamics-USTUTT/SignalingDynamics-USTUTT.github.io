@@ -24,7 +24,7 @@ breadcrumb_list:
 </tbody></table>
 
 <h4>Postdoctoral Researcher</h4>
-We are seeking a Postdoctoral Researcher (TV-L E13, 100%) who has a solid training in experimental biology (e.g., cell biology and molecular biology) and is excited about quantitative and computational approaches. If you are interested, please send a motivation letter, CV, list of publication, and contact information of three references to <a href="/contact">Dr. Chengzhe Tian</a>. The full advertisement could be found here (Link TBD).
+We are seeking a Postdoctoral Researcher (TV-L E13, 100%) who has a solid training in experimental biology (e.g., cell biology and molecular biology) and is excited about quantitative and computational approaches. If you are interested, please send a motivation letter, CV, list of publication, and contact information of three references to <a href="/contact">Jun-Prof. Chengzhe Tian</a>. The full advertisement could be found here (Link TBD).
 
 <h4>Doctoral Student</h4>
 No positions are available.
