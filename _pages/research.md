@@ -24,7 +24,7 @@ breadcrumb_list:
 <p><b>Developing innovative time-lapse microscopy technologies.</b><br>
 Factors such as the spectral overlap of live-cell reporters, phototoxicity, and the accuracy of cell tracking limits the performance of time-lapse microscopy, such that one can typically only measure a few signals over days. We will address them both experimentally (e.g., developing culturing models) and computationally (e.g., incorporating deep learning for cell tracking). Our goal is to reliably monitor single drug-treated cancer cells over months, both in 2D and 3D <em>in-vitro</em> settings.</p>
 
-<p><b>Identifying the molecular mechanisms of drug escaping.<b><br>
+<p><b>Identifying the molecular mechanisms of drug escaping.</b><br>
 Combining our time-lapse microscopy technologies that measure a few pathways' activities over time with single-cell omics technologies that measure thousands of genes at fixed timepoints, we will identify the signaling pathways driving the drug escaping at each characteristic timescale. Classical cell-biology and genetic approaches will then help dissect the detailed molecular mechanisms and identify novel therapeutic targets. Together, we aim to unravel the dynamics and sequences of events by which cancer recurrence emerges.</p>
 
 <p><b>Quantifying impact of therapeutic scheduling on tumor progression.</b><br>
