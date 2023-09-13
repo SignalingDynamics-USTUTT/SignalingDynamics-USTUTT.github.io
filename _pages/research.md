@@ -19,7 +19,7 @@ breadcrumb_list:
 
 <h4>Current Research</h4>
 <p>We want to expand our technologies to cover the <b>entire timeline of cancer recurrence</b>, from the time of drug addition to the formation of resistant colonies. If successful, our research will fundamentally shift our view of this critical process. We will conduct our research in three directions.</p>
-<img src="../images/research/current_research.png" alt="Overview of Current Research" style="max-width:100%;"><br>
+<img src="../images/research/current_research.png" alt="Overview of Current Research" style="max-width:75%;"><br>
 
 <p><b>Developing innovative time-lapse microscopy technologies.</b><br>
 Factors such as the spectral overlap of live-cell reporters, phototoxicity, and the accuracy of cell tracking limits the performance of time-lapse microscopy, such that one can typically only measure a few signals over days. We will address them both experimentally (e.g., developing culturing models) and computationally (e.g., incorporating deep learning for cell tracking). Our goal is to reliably monitor single drug-treated cancer cells over months, both in 2D and 3D <em>in-vitro</em> settings.</p>
