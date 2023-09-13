@@ -9,9 +9,6 @@ breadcrumb_list:
     url: /
 ---
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" integrity="sha384-3AB7yXWz4OeoZcPbieVW64vVXEwADiYyAEhwilzWsLw+9FgqpyjjStpPnpBO8o8S" crossorigin="anonymous">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
 <div id="main">
 <h4>Principal Investigator</h4>
 <table><tbody>
@@ -29,7 +26,7 @@ breadcrumb_list:
         <li class="et-social-icon"><a href="../images/people/CV_ChengzheTian.pdf" target="_blank" rel="noopener" title="CV"><i class="ai ai-cv"></i></a></li>
         <li class="et-social-icon"><a href="https://orcid.org/0000-0002-2269-1979/" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid"></i></a></li>
         <li class="et-social-icon"><a href="https://scholar.google.com/citations?user=kYbYBFgAAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
-        <li class="fa-brands fa-linkedin"><a href="https://www.linkedin.com/in/chengzhe-tian-18509a35/" target="_blank" rel="noopener" title="Linkedin"><i class="ai ai-orcid"></i></a></li>
+        <li class="fa-linkedin"><a href="https://www.linkedin.com/in/chengzhe-tian-18509a35/" target="_blank" rel="noopener" title="Linkedin"><i class="ai ai-orcid"></i></a></li>
       </ul>
     </td>
   </tr>
