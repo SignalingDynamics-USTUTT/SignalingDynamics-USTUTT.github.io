@@ -27,6 +27,8 @@ breadcrumb_list:
         <li class="et-social-icon"><a href="https://scholar.google.com/citations?user=kYbYBFgAAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
         <li class="fa-li"><a href="https://www.linkedin.com/in/chengzhe-tian-18509a35/" target="_blank" rel="noopener" title="Linkedin"><i class="fa fa-linkedin"></i>test</a></li>
       </ul>
+      <br>
+      <i class="fa fa-linkedin"></i>
       <a href="/people/ChengzheTian">Read More</a>
     </td>
   </tr>
