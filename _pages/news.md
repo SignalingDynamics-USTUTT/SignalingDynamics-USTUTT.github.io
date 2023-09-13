@@ -12,8 +12,8 @@ breadcrumb_list:
 <div id="main">
 <table><tbody>
   <tr>
-    <td style="padding-right:20px"><strong>04.08.2023</strong></td> 
-    <td>We are hiring new lab members. <a href="/join">Click here</a> for more information.</td>
+    <td style="padding-right:20px"><strong>14.09.2023</strong></td> 
+    <td>We are seeking one experimental Postdoctoral Researcher and one computational B.Sc./M.Sc. student. <a href="/join">Click here</a> for more information.</td>
   </tr>
   <tr>
     <td style="padding-right:20px"><strong>01.08.2023</strong></td>
