@@ -10,7 +10,6 @@ breadcrumb_list:
 ---
 
 <div id="main">
-
 <h4>Background</h4>
 <p>Cancer is a leading cause of death. While targeted therapies show promising results, cancer inevitably strikes back, typically via a few cells acquiring genetic mutations that bypass the oncogenic inhibition. Identifying <b>which</b> cells and <b>how</b> they acquire such resistance will greatly facilitate the development of higher-efficacy therapies and the maintenance of human well-being.</p>
 
@@ -21,7 +20,7 @@ breadcrumb_list:
 <p>We will expand our approach and perform the first in-depth single-cell longitudinal characterization across the <b>entire timeline of cancer recurrence</b>, from drug addition to the formation of resistant colonies. Our research will thus fundamentally shift our view of this critical process. Our research consists of three interdependent pillars.
 <img src="../images/research/current_research.png" alt="Overview of Current Research" style="max-width:75%;"><br>
 
-<p><b>Technology Development.</b> Factors such as the spectral overlap of live-cell reporters, phototoxicity, and the accuracy of cell tracking limit the applicability of time-lapse microscopy. We will overcome them both experimentally (e.g., by developing new culturing models) and computationally (e.g., incorporating deep learning methods for cell tracking). Our goal is to reliably monitor single drug-treated cancer cells over months, both in 2D and 3D <em>in-vitro</em> settings.</p>
+<p><b>Technology Development.</b> Factors such as the spectral overlap of live-cell reporters, phototoxicity, and the accuracy of cell tracking limit the applicability of time-lapse microscopy. We will overcome them both experimentally (e.g., by developing new culturing models) and computationally (e.g., by incorporating deep learning methods for cell tracking). Our goal is to reliably monitor single drug-treated cancer cells over months, both in 2D and 3D <em>in-vitro</em> settings.</p>
 
 <p><b>Molecular Mechanisms.</b> Combining our imaging approach with single-cell sequencing technologies, we will identify the signaling pathways driving drug escaping at each characteristic timescale. Classical cell biology and genetic approaches will then help dissect the detailed molecular mechanisms and identify novel therapeutic targets. Our goal is to unravel the dynamics and sequences of events by which cancer recurrence emerges.
 
