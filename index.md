@@ -20,6 +20,6 @@ subtitle: Institute of Cell Biology and Immunology, University of Stuttgart
 
 <p>We aim at building an interdisciplinary team consisting of biologists, chemists, physicists, mathematicians, and engineers. If you are interested in our research and believe that science is exciting, please <a href="/join">check out</a> our latest open positions!</p> 
 
-<p><strong>Posted on 14.09.2023.</strong> We are seeking a Postdoctoral Researcher (TV-L E13, 100%). Check out the <a href="/images/join/job_postdoc_20230926.pdf" target="_blank">job advertisement</a>! </p>
+<p><strong>Posted on 14.09.2023.</strong> We are seeking an experimental Postdoctoral Researcher (TV-L E13, 100%). Check out the <a href="/images/join/job_postdoc_20230926.pdf" target="_blank">job advertisement</a>! </p>
 
 </div>
