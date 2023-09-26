@@ -24,7 +24,7 @@ breadcrumb_list:
 </tbody></table>
 
 <h4>Postdoctoral Researcher</h4>
-<p><strong>Posted on 14.09.2023.</strong> We are seeking a Postdoctoral Researcher (TV-L E13, 100%) who has solid Ph.D. training in experimental biology (cell biology, genetics, etc) to lead the wet lab. If you are an expert in designing and executing experiments to dissect cell signaling and are excited about learning microscopy and computational modeling, please submit a letter of motivation, a CV, and contact information of 2-3 references to <a href="mailto:chengzhe.tian@izi.uni-stuttgart.de">Jun-Prof. Chengzhe Tian</a>. The formal job advertisement is <a href="../images/join/job_postdoc_20230926.pdf">here</a>. Informal inquiry is welcome.</p>
+<p><strong>Posted on 14.09.2023.</strong> We are seeking a Postdoctoral Researcher (TV-L E13, 100%) who has solid Ph.D. training in experimental biology (cell biology, genetics, etc) to lead the wet lab. If you are an expert in designing and executing experiments to dissect cell signaling and are excited about learning microscopy and computational modeling, please submit a letter of motivation, a CV, and contact information of 2-3 references to <a href="mailto:chengzhe.tian@izi.uni-stuttgart.de">Jun-Prof. Chengzhe Tian</a>. The formal job advertisement is <a href="../images/join/job_postdoc_20230926.pdf" target="_blank">here</a>. Informal inquiry is welcome.</p>
 
 <h4>Doctoral Student</h4>
 <p>Unfortunately, there are no open positions.</p>
