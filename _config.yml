@@ -98,10 +98,12 @@ navbar:
     url     : /news
   - title   : Research
     url     : /research
-  - title   : People
-    url     : /people
   - title   : Publication
     url     : /publication
+  - title   : Teaching
+    url     : /teaching
+  - title   : People
+    url     : /people
   - title   : Join Us
     url     : /join
   - title   : Contact Us
