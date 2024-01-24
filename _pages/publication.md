@@ -19,6 +19,7 @@ breadcrumb_list:
       K.R. Jacobson, A.M. Saleh, S.N. Lipp, <strong>C. Tian</strong>, A.R. Watson, C.M. Luetkemeyer, A.R. Ocken, S.L. Spencer, T.L. Kinzer-Ursem, S. Calve.
       <strong>Extracellular matrix protein composition dynamically changes during murine forelimb development</strong>
       <em>iScience.</em> <strong>27</strong>: 108838 (2024).
+      [<a href="https://doi.org/10.1016/j.isci.2024.108838">Link</a>]
     </td>
   </tr>
   <tr>
