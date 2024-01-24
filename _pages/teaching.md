@@ -5,7 +5,7 @@ include_collection: teaching
 permalink: /teaching
 show_breadcrumb: true
 breadcrumb_list:
-  - label: teaching
+  - label: Home
     url: /
 ---
 
