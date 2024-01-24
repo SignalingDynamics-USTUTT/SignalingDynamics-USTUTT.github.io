@@ -16,6 +16,16 @@ breadcrumb_list:
       <img src="../images/publication/no_image.png" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
+      K.R. Jacobson, A.M. Saleh, S.N. Lipp, <strong>C. Tian</strong>, A.R. Watson, C.M. Luetkemeyer, A.R. Ocken, S.L. Spencer, T.L. Kinzer-Ursem, S. Calve.
+      <strong>Extracellular matrix protein composition dynamically changes during murine forelimb development</strong>
+      <em>iScience.</em> <strong>27</strong>: 108838 (2024).
+    </td>
+  </tr>
+  <tr>
+    <td style="width:100px"><p>
+      <img src="../images/publication/no_image.png" style="max-width:100%;">
+    </p></td> 
+    <td style="padding-left:20px">
       J.Y. Chen, C. Hug, J. Reyes, <strong>C. Tian</strong>, L. Gerosa, F. Fr&#246;hlich, B. Ponsioen, H.J.G. Snippert, S.L. Spencer, A. Jambhekar, P.K. Sorger, G. Lahav. 
       <strong>Multi range ERK responses shape the proliferative trajectory of single cells following oncogene induced senescence.</strong> 
       <em>Cell. Rep.</em> <strong>42</strong>: 112252 (2023). 
