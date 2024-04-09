@@ -21,13 +21,13 @@ breadcrumb_list:
     <td style="padding-right:20px"><strong>SS2024</strong></td>
     <td>Systems Theory in Systems Biology</td>
     <td>[<a href="https://campus.uni-stuttgart.de/cusonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/378995?$scrollTo=toc_overview">C&commat;MPUS</a>]</td>
-    <td>[ILIAS]</td>
+    <td>[<a href="https://ilias3.uni-stuttgart.de/goto_Uni_Stuttgart_crs_3635085.html">ILIAS</a>]</td>
   </tr>
   <tr>
     <td style="padding-right:20px"></td>
     <td>Cell Stress Response and Cell-Death Signaling</td>
     <td>[<a href="https://campus.uni-stuttgart.de/cusonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/379886?$scrollTo=toc_overview">C&commat;MPUS</a>]</td>
-    <td>[ILIAS]</td>
+    <td>[<a href="https://ilias3.uni-stuttgart.de/goto_Uni_Stuttgart_crs_3668493.html">ILIAS</a>]</td>
   </tr>
 </tbody></table>
 
