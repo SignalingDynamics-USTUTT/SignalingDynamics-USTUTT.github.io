@@ -1,24 +1,23 @@
 ---
 layout: default
-title: Chulapa on remote
-header_type: hero
-subtitle: Starter pack
+title: Signaling Dynamics of Cellular Biomedical Systems
+header_type: splash
+header_img: /images/homepage/homepage_movie.gif
+subtitle: Institute of Cell Biology and Immunology, University of Stuttgart
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+<style>
+  #main td, th { border: none!important; }
+  #main a:link { text-decoration: underline; }
+  #main a:visited { text-decoration: underline; }
+  #main a:focus { text-decoration: underline; color: #888888; }
+  #main a:hover { text-decoration: underline; color: #888888; }
+  #main a:active { text-decoration: underline; color: #888888; }
+</style>
 
-Contains basic configuration to get you a site with:
+<div id="main">
+<p>Our research integrates cutting-edge experimental, computational, and theoretical approaches to dissect the molecular origins of cell-to-cell heterogeneity and its implications for human diseases. Our lab officially opens on 01.08.2023 and is located at the <a href="https://www.izi.uni-stuttgart.de/">Institute of Cell Biology and Immunology</a> of the <a href="https://www.uni-stuttgart.de/">University of Stuttgart</a>. Our research is supported by the <a href="https://www.tenuretrack.de/en/the-tenure-track-programme">Tenure-Track program</a> of the Federal Ministry of Education and Research and the State of Baden-W&uuml;rttemberg. </p>
 
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
+<p>We aim at building an interdisciplinary team consisting of biologists, chemists, physicists, mathematicians, and engineers. If you are interested in our research and believe that science is exciting, please <a href="/join">check out</a> our latest open positions!</p> 
 
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
-
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+</div>

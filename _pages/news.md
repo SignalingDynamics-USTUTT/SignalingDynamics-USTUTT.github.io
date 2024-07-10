@@ -1,0 +1,24 @@
+---
+layout: default
+title: "News"
+include_collection: news
+permalink: /news
+show_breadcrumb: true
+breadcrumb_list:
+  - label: Home
+    url: /
+---
+
+<div id="main">
+<table><tbody>
+  <tr>
+    <td style="padding-right:20px"><strong>14.09.2023</strong></td> 
+    <td>We are seeking an experimental Postdoctoral Researcher and a computational M.Sc. student. <a href="/join">Click here</a> for more information.</td>
+  </tr>
+  <tr>
+    <td style="padding-right:20px"><strong>01.08.2023</strong></td>
+    <td>The Junior Research Group "Signaling Dynamics in Cellular Biomedical Systems" officially opens today.</td>
+  </tr>
+</tbody></table>
+
+</div>
