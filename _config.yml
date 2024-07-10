@@ -134,7 +134,7 @@ googlefonts:
 chulapa-skin: 
   highlight     : github # default["default"]
   skin          : twitter # Optional predefined skins
-  autothemer    : true # Bool: Use autotheming
+  autothemer    : false # Bool: Use autotheming
   vars:
     # global
     primary                             : black
