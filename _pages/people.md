@@ -43,7 +43,10 @@ breadcrumb_list:
       <strong>Xin Zhang, Dr.</strong><br>
       2024.03-Present <br>
       Allmandring 5B, Room 2.052 <br>
-      Background. Experimental 
+      Background. Experimental <br>
+      <ul style="margin:0; padding-left:0;">
+        <li><a href="mailto:xin.zhang@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
+      </ul>
     </td>
   </tr>
 </tbody></table>
