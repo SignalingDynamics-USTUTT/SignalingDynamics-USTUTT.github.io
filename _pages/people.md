@@ -19,7 +19,7 @@ breadcrumb_list:
     <td style="padding-left:20px">
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
       2023.08-Present <br>
-      Allmandring 5B, Room 2.052 <br>
+      Allmandring 5B, Room 1.042 <br>
       Background. Computational (mostly) and Experimental <br>
       <ul style="margin:0; padding-left:0;">
         <li><a href="mailto:chengzhe.tian@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
@@ -29,6 +29,36 @@ breadcrumb_list:
         <li><a href="https://www.linkedin.com/in/chengzhe-tian-18509a35/" target="_blank" rel="noopener" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
       </ul>
       <a href="/people/ChengzheTian">Read More</a>
+    </td>
+  </tr>
+</tbody></table>
+
+<h4>Postdoctoral Researcher</h4>
+<table><tbody>
+  <tr>
+    <td style="width:120px;"><p>
+      <img src="../images/people/ChengzheTian_small.png" alt="Xin Zhang" style="max-width:100%;">
+    </p></td> 
+    <td style="padding-left:20px">
+      <strong>Xin Zhang, Dr.</strong><br>
+      2024.03-Present <br>
+      Allmandring 5B, Room 2.052 <br>
+      Background. Experimental 
+    </td>
+  </tr>
+</tbody></table>
+
+<h4>Bachelor Student</h4>
+<table><tbody>
+  <tr>
+    <td style="width:120px;"><p>
+      <img src="../images/people/ChengzheTian_small.png" alt="Linda Mattes" style="max-width:100%;">
+    </p></td> 
+    <td style="padding-left:20px">
+      <strong>Linda Mattes</strong><br>
+      2024.10-Present <br>
+      Allmandring 5B, Room XXX <br>
+      Background. Experimental 
     </td>
   </tr>
 </tbody></table>
