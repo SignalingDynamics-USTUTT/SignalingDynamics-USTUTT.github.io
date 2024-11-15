@@ -29,6 +29,12 @@ breadcrumb_list:
     <td>[<a href="https://campus.uni-stuttgart.de/cusonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/379886?$scrollTo=toc_overview">C&commat;MPUS</a>]</td>
     <td>[<a href="https://ilias3.uni-stuttgart.de/goto_Uni_Stuttgart_crs_3668493.html">ILIAS</a>]</td>
   </tr>
+    <tr>
+    <td style="padding-right:20px"><strong>WS2024/2025</strong></td> 
+    <td>Cell Biology and Immunology I (Laboratory and Seminar)</td>
+    <td>[<a href="https://campus.uni-stuttgart.de/cusonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/392066?$scrollTo=toc_overview">C&commat;MPUS</a>]</td>
+    <td>[<a href="https://ilias3.uni-stuttgart.de/ecsredi.php?cmsid=392066">ILIAS</a>]</td>
+  </tr>
 </tbody></table>
 
 </div>
