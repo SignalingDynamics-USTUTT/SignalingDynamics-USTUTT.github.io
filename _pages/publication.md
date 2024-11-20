@@ -16,7 +16,7 @@ breadcrumb_list:
       <img src="../images/publication/no_image.png" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
-      T.E. Hoffman,* <strong>C. Tian</strong>,* V. Nangia,* C. Yang, S. Regot, L. Gerosa, S.L. Spencer
+      T.E. Hoffman,* <strong>C. Tian</strong>,* V. Nangia,* C. Yang, S. Regot, L. Gerosa, S.L. Spencer.
       <strong>CDK2 activity crosstalk on the ERK kinase translocation reporter can be resolved computationally</strong>
       <em>Cell Syst.</em> (accepted).
     </td>
