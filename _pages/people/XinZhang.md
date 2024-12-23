@@ -15,7 +15,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:180px;"><p>
-      <img src="../images/people/Xin_Zhang_small.jpg" alt="Xin Zhang" style="max-width:100%;">
+      <img src="../images/people/Xin_Zhang.jpg" alt="Xin Zhang" style="max-width:100%;">
       <ul style="margin:0; padding-left:0; text-align: center">
         <li><a href="mailto:xin.zhang@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
       </ul>

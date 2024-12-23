@@ -15,7 +15,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:180px;"><p>
-      <img src="../images/people/Chengzhe_Tian_small.jpg" alt="Chengzhe Tian" style="max-width:100%;">
+      <img src="../images/people/Chengzhe_Tian.jpg" alt="Chengzhe Tian" style="max-width:100%;">
       <ul style="margin:0; padding-left:0; text-align: center">
         <li><a href="mailto:chengzhe.tian@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
         <li><a href="../images/people/CV_ChengzheTian.pdf" target="_blank" rel="noopener" title="CV"><i class="ai ai-cv fa-solid"></i></a></li>

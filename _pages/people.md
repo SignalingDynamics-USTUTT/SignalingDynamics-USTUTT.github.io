@@ -14,7 +14,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:120px;"><p>
-      <img src="../images/people/Chengzhe_Tian_small.jpg" alt="Chengzhe Tian" style="max-width:100%;">
+      <img src="../images/people/Chengzhe_Tian.jpg" alt="Chengzhe Tian" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
@@ -37,7 +37,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:120px;"><p>
-      <img src="../images/people/Xin_Zhang_small.jpg" alt="Xin Zhang" style="max-width:100%;">
+      <img src="../images/people/Xin_Zhang.jpg" alt="Xin Zhang" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       <strong>Xin Zhang, Dr.</strong><br>
@@ -55,9 +55,7 @@ breadcrumb_list:
 <h4>Bachelor Student</h4>
 <table><tbody>
   <tr>
-    <td style="width:120px;"><p>
-      <img src="../images/people/image_placeholder_small.png" alt="Linda Mattes" style="max-width:100%;">
-    </p></td> 
+    <td style="width:120px;"></td> 
     <td style="padding-left:20px">
       <strong>Linda Mattes</strong><br>
       2024.10-Present <br>
