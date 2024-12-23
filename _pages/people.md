@@ -14,7 +14,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:120px;"><p>
-      <img src="../images/people/ChengzheTian_small.png" alt="Chengzhe Tian" style="max-width:100%;">
+      <img src="../images/people/Chengzhe_Tian_small.jpg" alt="Chengzhe Tian" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       <strong>Chengzhe Tian, Jun-Prof. Dr.</strong><br>
@@ -37,7 +37,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:120px;"><p>
-      <img src="../images/people/ChengzheTian_small.png" alt="Xin Zhang" style="max-width:100%;">
+      <img src="../images/people/Xin_Zhang_small.jpg" alt="Xin Zhang" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       <strong>Xin Zhang, Dr.</strong><br>
@@ -47,6 +47,7 @@ breadcrumb_list:
       <ul style="margin:0; padding-left:0;">
         <li><a href="mailto:xin.zhang@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
       </ul>
+      <a href="/people/XinZhang">Read More</a>
     </td>
   </tr>
 </tbody></table>
@@ -55,7 +56,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:120px;"><p>
-      <img src="../images/people/ChengzheTian_small.png" alt="Linda Mattes" style="max-width:100%;">
+      <img src="../images/people/image_placeholder_small.png" alt="Linda Mattes" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
       <strong>Linda Mattes</strong><br>
