@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Chengzhe Tian"
+title: "Xin Zhang"
 include_collection: people
-permalink: /people/ChengzheTian
+permalink: /people/XinZhang
 show_breadcrumb: true
 breadcrumb_list:
   - label: Home
