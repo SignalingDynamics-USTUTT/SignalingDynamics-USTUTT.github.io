@@ -16,11 +16,11 @@ breadcrumb_list:
       <strong>Jun-Prof. Chengzhe Tian</strong><br>
       Institute of Cell Biology and Immunology (IZI) <br>
       University of Stuttgart <br>
-      Allmandring 5B, Room 2.052 <br>
+      Allmandring 5B, Room 1.042 <br>
       70569 Stuttgart, Germany <br><br>
       E-Mail: chengzhe.tian AT izi.uni-stuttgart.de <br>
-      Phone: +49 XXX XXX XXXXX <br>
-      Lab: Room 2.051
+      Phone: currently not available <br>
+      Lab: Room 2.005
     </td>
     <td style="padding-right:20px">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2631.015928356581!2d9.09761347537618!3d48.74339250879387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799dc6a1972644d%3A0xe6493e8fa724dd6c!2sAllmandring%205b%2C%2070569%20Stuttgart!5e0!3m2!1sen!2sde!4v1691000175389!5m2!1sen!2sde" width="340" height="255" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -42,7 +42,7 @@ breadcrumb_list:
     <td style="padding-left:20px">
       <strong>Xin Zhang, Dr.</strong><br>
       2024.03-Present <br>
-      Allmandring 5B, Room 2.052 <br>
+      Allmandring 31, IZI <br>
       Background. Experimental <br>
       <ul style="margin:0; padding-left:0;">
         <li><a href="mailto:xin.zhang@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
@@ -59,7 +59,7 @@ breadcrumb_list:
     <td style="padding-left:20px">
       <strong>Linda Mattes</strong><br>
       2024.10-Present <br>
-      Allmandring 5B, Room XXX <br>
+      Allmandring 31, IZI <br>
       Background. Experimental 
     </td>
   </tr>
