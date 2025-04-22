@@ -16,19 +16,20 @@ breadcrumb_list:
       <img src="../images/publication/no_image.png" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
-      T.E. Hoffman,* <strong>C. Tian</strong>,* V. Nangia,* C. Yang, S. Regot, L. Gerosa, S.L. Spencer.
-      <strong>CDK2 activity crosstalk on the ERK kinase translocation reporter can be resolved computationally.</strong>
-      <em>Cell Syst.</em> (accepted).
+      T. Wiedmer, S.T. Teoh, E. Christodoulaki, G. Wolf, <strong>C. Tian</strong>, V. Sedlyarov, A. Jarret, P. Leippe, F. Frommelt, A. Ingles-Prieto, S. Lindinger, B.M.G. Barbosa, S. Onstein, C. Klimek, J. Garcia, I. Serrano, D. Reil, D. Santacruz, M. Piotrowski, S. Noell, C. Bueschl, H. Li, G. Chi, S. Mereiter, T. Oliveira, J.M. Penninger, D.B. Sauer, C.M. Steppan, C. Viollet, K. Klavins, J.T. Hannich, U. Goldmann, G. Superti-Furga.
+      <strong>Metabolic mapping of the human solute carrier superfamily.</strong>
+      <em>Mol Syst Biol.</em> (accepted).
+      [<a href="https://doi.org/10.1101/2024.09.23.614124">Link</a>]
     </td>
-  </tr>  <tr>
+  </tr>
+  <tr>
     <td style="width:100px"><p>
       <img src="../images/publication/no_image.png" style="max-width:100%;">
     </p></td> 
     <td style="padding-left:20px">
-      T. Wiedmer, S.T. Teoh, E. Christodoulaki, G. Wolf, <strong>C. Tian</strong>, V. Sedlyarov, A. Jarret, P. Leippe, F. Frommelt, A. Ingles-Prieto, S. Lindinger, B.M.G. Barbosa, S. Onstein, C. Klimek, J. Garcia, I. Serrano, D. Reil, D. Santacruz, M. Piotrowski, S. Noell, C. Bueschl, H. Li, G. Chi, S. Mereiter, T. Oliveira, J.M. Penninger, D.B. Sauer, C.M. Steppan, C. Viollet, K. Klavins, J.T. Hannich, U. Goldmann, G. Superti-Furga.
-      <strong>Metabolic mapping of the human solute carrier superfamily.</strong>
-      <em>bioRxiv.</em> (2024).
-      [<a href="https://doi.org/10.1101/2024.09.23.614124">Link</a>]
+      T.E. Hoffman,* <strong>C. Tian</strong>,* V. Nangia,* C. Yang, S. Regot, L. Gerosa, S.L. Spencer.
+      <strong>CDK2 activity crosstalk on the ERK kinase translocation reporter can be resolved computationally.</strong>
+      <em>Cell Syst.</em> (accepted).
     </td>
   </tr>
   <tr>
