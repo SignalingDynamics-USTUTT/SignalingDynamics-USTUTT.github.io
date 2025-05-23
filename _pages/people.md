@@ -65,6 +65,18 @@ breadcrumb_list:
   </tr>
 </tbody></table>
 
+<h4>Visiting Student</h4>
+<table><tbody>
+  <tr>
+    <td style="width:120px;"></td> 
+    <td style="padding-left:20px">
+      <strong>Tracy Xu</strong><br>
+      2025.05-Present <br>
+      Allmandring 31, IZI <br> 
+    </td>
+  </tr>
+</tbody></table>
+
 <h4>You?</h4>
 <p>Do you want to be listed on this page? Our lab is expanding! <a href="/join">Check out</a> the latest open positions.</p>
 
