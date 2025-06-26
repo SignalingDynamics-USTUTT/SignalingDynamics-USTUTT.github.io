@@ -42,7 +42,7 @@ breadcrumb_list:
     <td style="padding-left:20px">
       <strong>Xin Zhang, Dr.</strong><br>
       2024.03-Present <br>
-      Allmandring 31, IZI <br>
+      Allmandring 5B, 2.52 <br>
       Background. Experimental <br>
       <ul style="margin:0; padding-left:0;">
         <li><a href="mailto:xin.zhang@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
@@ -52,27 +52,35 @@ breadcrumb_list:
   </tr>
 </tbody></table>
 
-<h4>Bachelor Student</h4>
+<h4>B.Sc./M.Sc. Student</h4>
 <table><tbody>
   <tr>
     <td style="width:120px;"></td> 
     <td style="padding-left:20px">
       <strong>Linda Mattes</strong><br>
       2024.10-Present <br>
-      Allmandring 31, IZI <br>
+      Allmandring 5B, 2.52 <br>
+      B.Sc. Wissenschaftliches Arbeiten and Thesis <br>
       Background. Experimental 
     </td>
   </tr>
-</tbody></table>
-
-<h4>Visiting Student</h4>
-<table><tbody>
+  <tr>
+    <td style="width:120px;"></td> 
+    <td style="padding-left:20px">
+      <strong>Michelle Grau</strong><br>
+      2025.07-Present <br>
+      Allmandring 5B, 2.52 <br>
+      M.Sc. Projektstudie and Thesis <br>
+      Background. Experimental 
+    </td>
+  </tr>
   <tr>
     <td style="width:120px;"></td> 
     <td style="padding-left:20px">
       <strong>Tracy Xu</strong><br>
       2025.05-Present <br>
-      Allmandring 31, IZI <br> 
+      Exchanged from McMaster University through the OBW Summer Research Program
+      Allmandring 5B, 2.52 <br> 
     </td>
   </tr>
 </tbody></table>

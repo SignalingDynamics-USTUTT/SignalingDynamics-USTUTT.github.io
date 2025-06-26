@@ -12,6 +12,10 @@ breadcrumb_list:
 <div id="main">
 <table><tbody>
   <tr>
+    <td style="padding-right:20px"><strong>26.06.2025</strong></td> 
+    <td><a href="/people">Michelle Grau</a> joins our lab as for her M.Sc. Thesis.</td>
+  </tr>
+  <tr>
     <td style="padding-right:20px"><strong>05.05.2025</strong></td> 
     <td><a href="/people">Tracy Xu</a> joins our lab as a visiting student through the OBW Summer Research Program.</td>
   </tr>
