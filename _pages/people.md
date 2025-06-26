@@ -79,7 +79,7 @@ breadcrumb_list:
     <td style="padding-left:20px">
       <strong>Tracy Xu</strong><br>
       2025.05-Present <br>
-      Exchanged from McMaster University through the OBW Summer Research Program <br>
+      Exchanged from McMaster University <br>
       Allmandring 5B, 2.52 <br> 
       Background. Experimental
     </td>
