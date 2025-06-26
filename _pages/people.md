@@ -52,15 +52,15 @@ breadcrumb_list:
   </tr>
 </tbody></table>
 
-<h4>B.Sc./M.Sc. Student</h4>
+<h4>Student</h4>
 <table><tbody>
   <tr>
     <td style="width:120px;"></td> 
     <td style="padding-left:20px">
       <strong>Linda Mattes</strong><br>
       2024.10-Present <br>
-      Allmandring 5B, 2.52 <br>
-      B.Sc. Wissenschaftliches Arbeiten and Thesis <br>
+      B.Sc. Thesis Student <br>
+      Allmandring 5B, 2.052 <br>
       Background. Experimental 
     </td>
   </tr>
@@ -69,8 +69,8 @@ breadcrumb_list:
     <td style="padding-left:20px">
       <strong>Michelle Grau</strong><br>
       2025.07-Present <br>
-      Allmandring 5B, 2.52 <br>
-      M.Sc. Projektstudie and Thesis <br>
+      M.Sc. Thesis Student <br>
+      Allmandring 5B, 2.052 <br>
       Background. Experimental 
     </td>
   </tr>
@@ -79,8 +79,8 @@ breadcrumb_list:
     <td style="padding-left:20px">
       <strong>Tracy Xu</strong><br>
       2025.05-Present <br>
-      Exchanged from McMaster University <br>
-      Allmandring 5B, 2.52 <br> 
+      Exchange Student from McMaster University <br>
+      Allmandring 5B, 2.052 <br> 
       Background. Experimental
     </td>
   </tr>
