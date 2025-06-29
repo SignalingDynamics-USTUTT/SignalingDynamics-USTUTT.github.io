@@ -48,7 +48,7 @@ breadcrumb_list:
     <td>[ILIAS]</td>
   </tr>
   <tr>
-    <td style="padding-right:20px"><strong>WS2025/2026</strong></td>
+    <td style="padding-right:20px"></td>
     <td>Cell Biology and Immunology I (Laboratory and Seminar)</td>
     <td>[C&commat;MPUS]</td>
     <td>[ILIAS]</td>
