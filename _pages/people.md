@@ -79,7 +79,7 @@ breadcrumb_list:
 <h4>Alumni</h4>
 <table><tbody>
   <tr>
-    <strong>Tracy Xu</strong> Exchange Student, 2025.05-2025.06
+    <strong>Tracy Xu</strong> &ensp; Exchange Student, 2025.05-2025.06
   </tr>
 </tbody></table>
 
