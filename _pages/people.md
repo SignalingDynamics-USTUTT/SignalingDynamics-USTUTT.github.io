@@ -80,7 +80,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:120px;"><strong>Tracy Xu</strong></td>
-    <td>Exchange Student, 2025.05-2025.06</td>
+    <td style="padding-left:20px">Exchange Student, 2025.05-2025.06</td>
   </tr>
 </tbody></table>
 
