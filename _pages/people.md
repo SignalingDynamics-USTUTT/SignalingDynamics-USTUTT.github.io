@@ -74,15 +74,12 @@ breadcrumb_list:
       Background. Experimental 
     </td>
   </tr>
+</tbody></table>
+
+<h4>Alumni</h4>
+<table><tbody>
   <tr>
-    <td style="width:120px;"></td> 
-    <td style="padding-left:20px">
-      <strong>Tracy Xu</strong><br>
-      2025.05-Present <br>
-      Exchange Student from McMaster University <br>
-      Allmandring 5B, 2.052 <br> 
-      Background. Experimental
-    </td>
+    <strong>Tracy Xu</strong> Exchange Student, 2025.05-2025.06
   </tr>
 </tbody></table>
 
