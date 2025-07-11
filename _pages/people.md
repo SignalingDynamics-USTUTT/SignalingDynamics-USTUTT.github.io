@@ -42,7 +42,7 @@ breadcrumb_list:
     <td style="padding-left:20px">
       <strong>Xin Zhang, Dr.</strong><br>
       2024.03-Present <br>
-      Allmandring 5B, 2.52 <br>
+      Allmandring 5B, 1.006 <br>
       Background. Experimental <br>
       <ul style="margin:0; padding-left:0;">
         <li><a href="mailto:xin.zhang@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
@@ -60,7 +60,7 @@ breadcrumb_list:
       <strong>Linda Mattes</strong><br>
       2024.10-Present <br>
       B.Sc. Thesis Student <br>
-      Allmandring 5B, 2.052 <br>
+      Allmandring 5B, 1.006 <br>
       Background. Experimental 
     </td>
   </tr>
@@ -70,7 +70,7 @@ breadcrumb_list:
       <strong>Michelle Grau</strong><br>
       2025.07-Present <br>
       M.Sc. Thesis Student <br>
-      Allmandring 5B, 2.052 <br>
+      Allmandring 5B, 1.006 <br>
       Background. Experimental 
     </td>
   </tr>
