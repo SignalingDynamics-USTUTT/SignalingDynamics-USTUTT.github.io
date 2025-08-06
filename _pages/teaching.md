@@ -44,13 +44,13 @@ breadcrumb_list:
   <tr>
     <td style="padding-right:20px"><strong>WS2025/2026</strong></td>
     <td>Stress, Death and Disease</td>
-    <td>[C&commat;MPUS]</td>
+    <td>[<a href="https://campus.uni-stuttgart.de/cusonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/429920?$scrollTo=toc_overview">C&commat;MPUS</a>]</td>
     <td>[ILIAS]</td>
   </tr>
   <tr>
     <td style="padding-right:20px"></td>
     <td>Cell Biology and Immunology I (Laboratory and Seminar)</td>
-    <td>[C&commat;MPUS]</td>
+    <td>[<a href="https://campus.uni-stuttgart.de/cusonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/418518?$scrollTo=toc_overview">C&commat;MPUS</a>]</td>
     <td>[ILIAS]</td>
   </tr>
 </tbody></table>
