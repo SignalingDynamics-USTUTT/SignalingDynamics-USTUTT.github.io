@@ -57,16 +57,6 @@ breadcrumb_list:
   <tr>
     <td style="width:120px;"></td> 
     <td style="padding-left:20px">
-      <strong>Linda Mattes</strong><br>
-      2024.10-Present <br>
-      B.Sc. Thesis Student <br>
-      Allmandring 5B, 1.006 <br>
-      Background. Experimental 
-    </td>
-  </tr>
-  <tr>
-    <td style="width:120px;"></td> 
-    <td style="padding-left:20px">
       <strong>Michelle Grau</strong><br>
       2025.07-Present <br>
       M.Sc. Thesis Student <br>
@@ -81,6 +71,10 @@ breadcrumb_list:
   <tr>
     <td style="width:120px;"><strong>Tracy Xu</strong></td>
     <td style="padding-left:20px">Exchange Student, 2025.05-2025.06</td>
+  </tr>
+  <tr>
+    <td style="width:120px;"><strong>Linda Mattes</strong></td>
+    <td style="padding-left:20px">B.Sc. Thesis Student, 2024.10-2025.08</td>
   </tr>
 </tbody></table>
 
