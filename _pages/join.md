@@ -35,4 +35,6 @@ breadcrumb_list:
 <h4>No Suitable Positions?</h4>
 <p>We are always looking for excellent candidates. Simply drop an email to <a href="mailto:chengzhe.tian@izi.uni-stuttgart.de">Jun-Prof. Chengzhe Tian</a> for a discussion, and we will work together to identify a solution. We are always happy to support applications for independent fellowships.</p>
 
+<p>Note. In order to enroll as a Ph.D. student in our faculty, you must hold a M.Sc. or M.Eng. degree (or equivalent). If you only hold other degrees, such as a medicine degree, your application will be rejected by our faculty. Postdoc applicants are not subject to this rule. </p>
+
 </div>
