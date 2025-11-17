@@ -52,7 +52,23 @@ breadcrumb_list:
   </tr>
 </tbody></table>
 
-<h4>Student</h4>
+<h4>PhD Student</h4>
+<table><tbody>
+  <tr>
+    <td style="width:120px;"></td> 
+    <td style="padding-left:20px">
+      <strong>Anja K&uuml;mmling</strong><br>
+      2025.10.15-Present (HiWi -> PhD Student) <br>
+      Allmandring 5B, 1.006 <br>
+      Background. Computational <br>
+      <ul style="margin:0; padding-left:0;">
+        <li><a href="mailto:anja.kuemmling@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
+      </ul>
+    </td>
+  </tr>
+</tbody></table>
+
+<h4>BSc/MSc Student</h4>
 <table><tbody>
   <tr>
     <td style="width:120px;"></td> 
