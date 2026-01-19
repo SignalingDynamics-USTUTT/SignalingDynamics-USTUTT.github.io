@@ -58,7 +58,7 @@ breadcrumb_list:
     <td style="width:120px;"></td> 
     <td style="padding-left:20px">
       <strong>Anja K&uuml;mmling</strong><br>
-      2025.10.15-Present (HiWi -> PhD Student) <br>
+      2026.01.01-Present <br>
       Allmandring 5B, 1.006 <br>
       Background. Computational <br>
       <ul style="margin:0; padding-left:0;">

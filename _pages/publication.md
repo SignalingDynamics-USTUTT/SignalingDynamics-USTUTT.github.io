@@ -18,7 +18,7 @@ breadcrumb_list:
     <td style="padding-left:20px">
       T. Wiedmer, S.T. Teoh, E. Christodoulaki, G. Wolf, <strong>C. Tian</strong>, V. Sedlyarov, A. Jarret, P. Leippe, F. Frommelt, A. Ingles-Prieto, S. Lindinger, B.M.G. Barbosa, S. Onstein, C. Klimek, J. Garcia, I. Serrano, D. Reil, D. Santacruz, M. Piotrowski, S. Noell, C. Bueschl, H. Li, G. Chi, S. Mereiter, T. Oliveira, J.M. Penninger, D.B. Sauer, C.M. Steppan, C. Viollet, K. Klavins, J.T. Hannich, U. Goldmann, G. Superti-Furga.
       <strong>Metabolic mapping of the human solute carrier superfamily.</strong>
-      <em>Mol Syst Biol.</em> (accepted).
+      <em>Mol Syst Biol.</em> <strong>21</strong>: 560-598 (2025).
       [<a href="https://doi.org/10.1038/s44320-025-00106-4">Link</a>]
     </td>
   </tr>
