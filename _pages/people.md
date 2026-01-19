@@ -64,6 +64,7 @@ breadcrumb_list:
       <ul style="margin:0; padding-left:0;">
         <li><a href="mailto:anja.kuemmling@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
       </ul>
+      <a href="/people/AnjaKuemmling">Read More</a>
     </td>
   </tr>
 </tbody></table>
