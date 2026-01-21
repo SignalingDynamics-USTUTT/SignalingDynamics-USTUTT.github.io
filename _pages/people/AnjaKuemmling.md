@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Anja Kuemmling"
+title: "Anja Kümmling"
 include_collection: people
 permalink: /people/AnjaKuemmling
 show_breadcrumb: true
