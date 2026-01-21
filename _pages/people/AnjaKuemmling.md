@@ -22,8 +22,8 @@ breadcrumb_list:
     </p></td> 
     <td style="padding-left:20px">
       <strong>Education</strong><br>
-      B.Sc. Nutritional Science, University of Hohenheim, Germany, 20XX <br>
-      M.Sc. Bioinformatics, University of Gie&szlig;en, Germany, 2024 <br><br>
+      B.Sc. Nutritional Science, University of Hohenheim, Germany, 2019 <br>
+      M.Sc. Bioinformatics and Systems Biology, University of Gie&szlig;en and University of Applied Sciences Mittelhessen, Germany, 2024 <br><br>
       <strong>Previous Positions</strong><br>
       Research Assistant, University of Stuttgart, Germany, 2024-2025 <br><br> 
       <strong>Current Position</strong><br>
