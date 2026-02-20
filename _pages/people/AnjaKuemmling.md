@@ -15,7 +15,7 @@ breadcrumb_list:
 <table><tbody>
   <tr>
     <td style="width:180px;"><p>
-      <img src="../images/people/Anja_Kuemmling.png" alt="Anja Kuemmling" style="max-width:100%;">
+      <img src="../images/people/Anja_Kuemmling.jpg" alt="Anja Kuemmling" style="max-width:100%;">
       <ul style="margin:0; padding-left:0; text-align: center">
         <li><a href="mailto:anja.kuemmling@izi.uni-stuttgart.de" target="_blank" rel="noopener" title="E-Mail"><i class="fa-solid fa-envelope"></i></a></li>
       </ul>

@@ -55,7 +55,9 @@ breadcrumb_list:
 <h4>PhD Student</h4>
 <table><tbody>
   <tr>
-    <td style="width:120px;"></td> 
+    <td style="width:120px;"><p>
+      <img src="../images/people/Anja_Kuemmling.jpg" alt="Anja Kuemmling" style="max-width:100%;">
+    </p></td> 
     <td style="padding-left:20px">
       <strong>Anja K&uuml;mmling</strong><br>
       2026.01.01-Present <br>
